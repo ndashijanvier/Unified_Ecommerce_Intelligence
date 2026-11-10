@@ -1,0 +1,8002 @@
+[
+  {
+    "product_id": "prod_00000",
+    "name": "Inverse fault-tolerant alliance",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 323.81,
+    "current_stock": 844,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 323.81,
+        "date": "2026-06-16"
+      }
+    ],
+    "creation_date": "2026-06-25"
+  },
+  {
+    "product_id": "prod_00001",
+    "name": "Multi-lateral holistic analyzer",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 243.49,
+    "current_stock": 524,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 243.49,
+        "date": "2026-05-11"
+      }
+    ],
+    "creation_date": "2026-09-30"
+  },
+  {
+    "product_id": "prod_00002",
+    "name": "Re-contextualized global support",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 21.59,
+    "current_stock": 73,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 21.59,
+        "date": "2026-04-06"
+      }
+    ],
+    "creation_date": "2026-03-05"
+  },
+  {
+    "product_id": "prod_00003",
+    "name": "Persevering bi-directional customer loyalty",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 54.28,
+    "current_stock": 279,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 54.28,
+        "date": "2026-06-25"
+      }
+    ],
+    "creation_date": "2026-01-04"
+  },
+  {
+    "product_id": "prod_00004",
+    "name": "Proactive content-based data-warehouse",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 416.18,
+    "current_stock": 760,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 416.18,
+        "date": "2026-02-04"
+      }
+    ],
+    "creation_date": "2026-08-27"
+  },
+  {
+    "product_id": "prod_00005",
+    "name": "Decentralized multi-state open system",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 477.97,
+    "current_stock": 516,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 477.97,
+        "date": "2026-02-04"
+      }
+    ],
+    "creation_date": "2026-10-23"
+  },
+  {
+    "product_id": "prod_00006",
+    "name": "Configurable actuating budgetary management",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 459.71,
+    "current_stock": 463,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 459.71,
+        "date": "2026-07-31"
+      }
+    ],
+    "creation_date": "2026-09-21"
+  },
+  {
+    "product_id": "prod_00007",
+    "name": "Open-architected global architecture",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 395.26,
+    "current_stock": 177,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 395.26,
+        "date": "2026-08-19"
+      }
+    ],
+    "creation_date": "2026-08-19"
+  },
+  {
+    "product_id": "prod_00008",
+    "name": "Operative user-facing moderator",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 487.79,
+    "current_stock": 404,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 487.79,
+        "date": "2026-05-20"
+      }
+    ],
+    "creation_date": "2026-09-19"
+  },
+  {
+    "product_id": "prod_00009",
+    "name": "Balanced static info-mediaries",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 91.87,
+    "current_stock": 678,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 91.87,
+        "date": "2026-08-17"
+      }
+    ],
+    "creation_date": "2026-09-27"
+  },
+  {
+    "product_id": "prod_00010",
+    "name": "Profound composite encoding",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 167.43,
+    "current_stock": 76,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 167.43,
+        "date": "2026-01-19"
+      }
+    ],
+    "creation_date": "2026-05-23"
+  },
+  {
+    "product_id": "prod_00011",
+    "name": "Diverse tertiary core",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 492.59,
+    "current_stock": 760,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 492.59,
+        "date": "2026-06-13"
+      }
+    ],
+    "creation_date": "2026-10-27"
+  },
+  {
+    "product_id": "prod_00012",
+    "name": "Fundamental eco-centric protocol",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 170.07,
+    "current_stock": 317,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 170.07,
+        "date": "2026-02-27"
+      }
+    ],
+    "creation_date": "2026-08-02"
+  },
+  {
+    "product_id": "prod_00013",
+    "name": "Sharable intermediate moderator",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 119.52,
+    "current_stock": 968,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 119.52,
+        "date": "2026-04-15"
+      }
+    ],
+    "creation_date": "2026-08-17"
+  },
+  {
+    "product_id": "prod_00014",
+    "name": "Down-sized user-facing firmware",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 443.09,
+    "current_stock": 894,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 443.09,
+        "date": "2026-07-20"
+      }
+    ],
+    "creation_date": "2026-10-19"
+  },
+  {
+    "product_id": "prod_00015",
+    "name": "Configurable encompassing encryption",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 300.01,
+    "current_stock": 698,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 300.01,
+        "date": "2026-05-09"
+      }
+    ],
+    "creation_date": "2026-10-25"
+  },
+  {
+    "product_id": "prod_00016",
+    "name": "Customizable analyzing paradigm",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 419.75,
+    "current_stock": 858,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 419.75,
+        "date": "2026-01-02"
+      }
+    ],
+    "creation_date": "2026-08-25"
+  },
+  {
+    "product_id": "prod_00017",
+    "name": "Quality-focused 24hour attitude",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 278.72,
+    "current_stock": 748,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 278.72,
+        "date": "2026-01-27"
+      }
+    ],
+    "creation_date": "2026-07-09"
+  },
+  {
+    "product_id": "prod_00018",
+    "name": "Adaptive background artificial intelligence",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 443.38,
+    "current_stock": 283,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 443.38,
+        "date": "2026-04-11"
+      }
+    ],
+    "creation_date": "2026-09-30"
+  },
+  {
+    "product_id": "prod_00019",
+    "name": "Total actuating open system",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 356.54,
+    "current_stock": 271,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 356.54,
+        "date": "2026-07-10"
+      }
+    ],
+    "creation_date": "2026-08-24"
+  },
+  {
+    "product_id": "prod_00020",
+    "name": "Cross-platform well-modulated infrastructure",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 347.06,
+    "current_stock": 980,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 347.06,
+        "date": "2026-10-21"
+      }
+    ],
+    "creation_date": "2026-02-03"
+  },
+  {
+    "product_id": "prod_00021",
+    "name": "Balanced global adapter",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 284.37,
+    "current_stock": 350,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 284.37,
+        "date": "2026-06-29"
+      }
+    ],
+    "creation_date": "2026-09-21"
+  },
+  {
+    "product_id": "prod_00022",
+    "name": "Versatile real-time application",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 349.74,
+    "current_stock": 961,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 349.74,
+        "date": "2026-05-18"
+      }
+    ],
+    "creation_date": "2026-04-11"
+  },
+  {
+    "product_id": "prod_00023",
+    "name": "Cloned stable algorithm",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 339.2,
+    "current_stock": 791,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 339.2,
+        "date": "2026-05-14"
+      }
+    ],
+    "creation_date": "2026-10-29"
+  },
+  {
+    "product_id": "prod_00024",
+    "name": "Cross-platform leadingedge productivity",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 438.59,
+    "current_stock": 697,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 438.59,
+        "date": "2026-09-06"
+      }
+    ],
+    "creation_date": "2026-09-30"
+  },
+  {
+    "product_id": "prod_00025",
+    "name": "Multi-layered maximized array",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 477.04,
+    "current_stock": 421,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 477.04,
+        "date": "2026-06-15"
+      }
+    ],
+    "creation_date": "2026-10-04"
+  },
+  {
+    "product_id": "prod_00026",
+    "name": "Managed cohesive Graphic Interface",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 116.96,
+    "current_stock": 571,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 116.96,
+        "date": "2026-03-06"
+      }
+    ],
+    "creation_date": "2026-09-03"
+  },
+  {
+    "product_id": "prod_00027",
+    "name": "Virtual 3rdgeneration protocol",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 447.31,
+    "current_stock": 135,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 447.31,
+        "date": "2026-05-18"
+      }
+    ],
+    "creation_date": "2026-07-08"
+  },
+  {
+    "product_id": "prod_00028",
+    "name": "Adaptive eco-centric capacity",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 433.51,
+    "current_stock": 526,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 433.51,
+        "date": "2026-03-25"
+      }
+    ],
+    "creation_date": "2026-07-26"
+  },
+  {
+    "product_id": "prod_00029",
+    "name": "Advanced systemic infrastructure",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 70.72,
+    "current_stock": 547,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 70.72,
+        "date": "2026-03-18"
+      }
+    ],
+    "creation_date": "2026-06-11"
+  },
+  {
+    "product_id": "prod_00030",
+    "name": "Programmable leadingedge model",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 454.88,
+    "current_stock": 820,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 454.88,
+        "date": "2026-09-06"
+      }
+    ],
+    "creation_date": "2026-04-04"
+  },
+  {
+    "product_id": "prod_00031",
+    "name": "Team-oriented incremental superstructure",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 359.05,
+    "current_stock": 919,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 359.05,
+        "date": "2026-07-11"
+      }
+    ],
+    "creation_date": "2026-08-21"
+  },
+  {
+    "product_id": "prod_00032",
+    "name": "Integrated 24hour application",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 274.61,
+    "current_stock": 445,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 274.61,
+        "date": "2026-02-06"
+      }
+    ],
+    "creation_date": "2026-01-07"
+  },
+  {
+    "product_id": "prod_00033",
+    "name": "Focused full-range capability",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 316.87,
+    "current_stock": 757,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 316.87,
+        "date": "2026-10-27"
+      }
+    ],
+    "creation_date": "2026-03-13"
+  },
+  {
+    "product_id": "prod_00034",
+    "name": "Object-based zero tolerance help-desk",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 412.66,
+    "current_stock": 453,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 412.66,
+        "date": "2026-03-24"
+      }
+    ],
+    "creation_date": "2026-06-12"
+  },
+  {
+    "product_id": "prod_00035",
+    "name": "Front-line responsive migration",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 333.6,
+    "current_stock": 228,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 333.6,
+        "date": "2026-04-29"
+      }
+    ],
+    "creation_date": "2026-07-28"
+  },
+  {
+    "product_id": "prod_00036",
+    "name": "Multi-lateral systematic portal",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 118.39,
+    "current_stock": 948,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 118.39,
+        "date": "2026-09-09"
+      }
+    ],
+    "creation_date": "2026-03-09"
+  },
+  {
+    "product_id": "prod_00037",
+    "name": "Cross-group empowering open system",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 278.32,
+    "current_stock": 37,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 278.32,
+        "date": "2026-03-07"
+      }
+    ],
+    "creation_date": "2026-07-26"
+  },
+  {
+    "product_id": "prod_00038",
+    "name": "Fully-configurable 24/7 time-frame",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 112.73,
+    "current_stock": 579,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 112.73,
+        "date": "2026-05-28"
+      }
+    ],
+    "creation_date": "2026-04-28"
+  },
+  {
+    "product_id": "prod_00039",
+    "name": "Multi-channeled executive Internet solution",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_03",
+    "base_price": 39.86,
+    "current_stock": 347,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 39.86,
+        "date": "2026-05-05"
+      }
+    ],
+    "creation_date": "2026-07-24"
+  },
+  {
+    "product_id": "prod_00040",
+    "name": "Multi-layered explicit secured line",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 23.54,
+    "current_stock": 717,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 23.54,
+        "date": "2026-04-16"
+      }
+    ],
+    "creation_date": "2026-10-17"
+  },
+  {
+    "product_id": "prod_00041",
+    "name": "Cross-platform user-facing task-force",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 36.11,
+    "current_stock": 476,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 36.11,
+        "date": "2026-05-09"
+      }
+    ],
+    "creation_date": "2026-07-29"
+  },
+  {
+    "product_id": "prod_00042",
+    "name": "Grass-roots content-based monitoring",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 292.35,
+    "current_stock": 386,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 292.35,
+        "date": "2026-09-10"
+      }
+    ],
+    "creation_date": "2026-09-04"
+  },
+  {
+    "product_id": "prod_00043",
+    "name": "Robust secondary function",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 148.9,
+    "current_stock": 819,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 148.9,
+        "date": "2026-07-27"
+      }
+    ],
+    "creation_date": "2026-09-15"
+  },
+  {
+    "product_id": "prod_00044",
+    "name": "Configurable analyzing benchmark",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 474.84,
+    "current_stock": 145,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 474.84,
+        "date": "2026-08-05"
+      }
+    ],
+    "creation_date": "2026-07-15"
+  },
+  {
+    "product_id": "prod_00045",
+    "name": "User-centric non-volatile leverage",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 68.8,
+    "current_stock": 655,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 68.8,
+        "date": "2026-02-15"
+      }
+    ],
+    "creation_date": "2026-09-26"
+  },
+  {
+    "product_id": "prod_00046",
+    "name": "Reverse-engineered fault-tolerant capability",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 499.18,
+    "current_stock": 831,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 499.18,
+        "date": "2026-03-06"
+      }
+    ],
+    "creation_date": "2026-07-05"
+  },
+  {
+    "product_id": "prod_00047",
+    "name": "Team-oriented grid-enabled initiative",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 210.88,
+    "current_stock": 418,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 210.88,
+        "date": "2026-03-30"
+      }
+    ],
+    "creation_date": "2026-02-07"
+  },
+  {
+    "product_id": "prod_00048",
+    "name": "De-engineered bottom-line toolset",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 402.46,
+    "current_stock": 918,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 402.46,
+        "date": "2026-02-07"
+      }
+    ],
+    "creation_date": "2026-01-30"
+  },
+  {
+    "product_id": "prod_00049",
+    "name": "Expanded bottom-line concept",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 376.45,
+    "current_stock": 569,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 376.45,
+        "date": "2026-09-27"
+      }
+    ],
+    "creation_date": "2026-02-22"
+  },
+  {
+    "product_id": "prod_00050",
+    "name": "Ameliorated grid-enabled encoding",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 334.02,
+    "current_stock": 447,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 334.02,
+        "date": "2026-04-21"
+      }
+    ],
+    "creation_date": "2026-03-15"
+  },
+  {
+    "product_id": "prod_00051",
+    "name": "Digitized zero-defect process improvement",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 112.43,
+    "current_stock": 277,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 112.43,
+        "date": "2026-01-19"
+      }
+    ],
+    "creation_date": "2026-07-24"
+  },
+  {
+    "product_id": "prod_00052",
+    "name": "Operative global product",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 34.08,
+    "current_stock": 688,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 34.08,
+        "date": "2026-01-25"
+      }
+    ],
+    "creation_date": "2026-08-13"
+  },
+  {
+    "product_id": "prod_00053",
+    "name": "Right-sized user-facing groupware",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 443.02,
+    "current_stock": 611,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 443.02,
+        "date": "2026-06-29"
+      }
+    ],
+    "creation_date": "2026-10-25"
+  },
+  {
+    "product_id": "prod_00054",
+    "name": "Open-architected asymmetric help-desk",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 472.61,
+    "current_stock": 725,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 472.61,
+        "date": "2026-05-26"
+      }
+    ],
+    "creation_date": "2026-10-19"
+  },
+  {
+    "product_id": "prod_00055",
+    "name": "Reactive exuding encryption",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 168.96,
+    "current_stock": 24,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 168.96,
+        "date": "2026-08-11"
+      }
+    ],
+    "creation_date": "2026-02-09"
+  },
+  {
+    "product_id": "prod_00056",
+    "name": "Assimilated explicit hub",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 63.04,
+    "current_stock": 250,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 63.04,
+        "date": "2026-07-15"
+      }
+    ],
+    "creation_date": "2026-07-01"
+  },
+  {
+    "product_id": "prod_00057",
+    "name": "Programmable local database",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 399.99,
+    "current_stock": 420,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 399.99,
+        "date": "2026-07-10"
+      }
+    ],
+    "creation_date": "2026-02-26"
+  },
+  {
+    "product_id": "prod_00058",
+    "name": "Proactive responsive hardware",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 322.59,
+    "current_stock": 963,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 322.59,
+        "date": "2026-06-12"
+      }
+    ],
+    "creation_date": "2026-01-05"
+  },
+  {
+    "product_id": "prod_00059",
+    "name": "Decentralized bandwidth-monitored adapter",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 246.61,
+    "current_stock": 789,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 246.61,
+        "date": "2026-07-25"
+      }
+    ],
+    "creation_date": "2026-08-08"
+  },
+  {
+    "product_id": "prod_00060",
+    "name": "Multi-channeled interactive ability",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 36.86,
+    "current_stock": 791,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 36.86,
+        "date": "2026-08-17"
+      }
+    ],
+    "creation_date": "2026-05-24"
+  },
+  {
+    "product_id": "prod_00061",
+    "name": "Organic encompassing workforce",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 212.44,
+    "current_stock": 365,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 212.44,
+        "date": "2026-03-22"
+      }
+    ],
+    "creation_date": "2026-05-10"
+  },
+  {
+    "product_id": "prod_00062",
+    "name": "Team-oriented 3rdgeneration benchmark",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 477.04,
+    "current_stock": 518,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 477.04,
+        "date": "2026-03-10"
+      }
+    ],
+    "creation_date": "2026-09-03"
+  },
+  {
+    "product_id": "prod_00063",
+    "name": "Ameliorated bandwidth-monitored customer loyalty",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 147.47,
+    "current_stock": 520,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 147.47,
+        "date": "2026-01-05"
+      }
+    ],
+    "creation_date": "2026-07-12"
+  },
+  {
+    "product_id": "prod_00064",
+    "name": "Reactive encompassing firmware",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 108.86,
+    "current_stock": 312,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 108.86,
+        "date": "2026-09-29"
+      }
+    ],
+    "creation_date": "2026-03-12"
+  },
+  {
+    "product_id": "prod_00065",
+    "name": "Total intangible capability",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 212.27,
+    "current_stock": 100,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 212.27,
+        "date": "2026-02-09"
+      }
+    ],
+    "creation_date": "2026-03-10"
+  },
+  {
+    "product_id": "prod_00066",
+    "name": "Inverse modular system engine",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 45.17,
+    "current_stock": 868,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 45.17,
+        "date": "2026-07-22"
+      }
+    ],
+    "creation_date": "2026-02-18"
+  },
+  {
+    "product_id": "prod_00067",
+    "name": "Universal multimedia complexity",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 307.71,
+    "current_stock": 88,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 307.71,
+        "date": "2026-03-25"
+      }
+    ],
+    "creation_date": "2026-07-24"
+  },
+  {
+    "product_id": "prod_00068",
+    "name": "Polarized interactive function",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 290.03,
+    "current_stock": 32,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 290.03,
+        "date": "2026-05-26"
+      }
+    ],
+    "creation_date": "2026-05-08"
+  },
+  {
+    "product_id": "prod_00069",
+    "name": "Streamlined value-added model",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 17.61,
+    "current_stock": 90,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 17.61,
+        "date": "2026-06-05"
+      }
+    ],
+    "creation_date": "2026-08-11"
+  },
+  {
+    "product_id": "prod_00070",
+    "name": "Enterprise-wide bifurcated firmware",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 365.89,
+    "current_stock": 891,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 365.89,
+        "date": "2026-08-21"
+      }
+    ],
+    "creation_date": "2026-04-22"
+  },
+  {
+    "product_id": "prod_00071",
+    "name": "Ameliorated asymmetric analyzer",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 376.27,
+    "current_stock": 586,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 376.27,
+        "date": "2026-10-30"
+      }
+    ],
+    "creation_date": "2026-10-31"
+  },
+  {
+    "product_id": "prod_00072",
+    "name": "Horizontal web-enabled groupware",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 495.87,
+    "current_stock": 117,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 495.87,
+        "date": "2026-04-14"
+      }
+    ],
+    "creation_date": "2026-07-19"
+  },
+  {
+    "product_id": "prod_00073",
+    "name": "Stand-alone tangible system engine",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 429.71,
+    "current_stock": 837,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 429.71,
+        "date": "2026-09-24"
+      }
+    ],
+    "creation_date": "2026-07-10"
+  },
+  {
+    "product_id": "prod_00074",
+    "name": "Centralized next generation process improvement",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 331.07,
+    "current_stock": 364,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 331.07,
+        "date": "2026-06-11"
+      }
+    ],
+    "creation_date": "2026-08-03"
+  },
+  {
+    "product_id": "prod_00075",
+    "name": "Seamless 24/7 time-frame",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 323.16,
+    "current_stock": 105,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 323.16,
+        "date": "2026-10-18"
+      }
+    ],
+    "creation_date": "2026-01-26"
+  },
+  {
+    "product_id": "prod_00076",
+    "name": "Expanded maximized functionalities",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 123.75,
+    "current_stock": 713,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 123.75,
+        "date": "2026-11-05"
+      }
+    ],
+    "creation_date": "2026-09-14"
+  },
+  {
+    "product_id": "prod_00077",
+    "name": "Virtual high-level open system",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 258.88,
+    "current_stock": 52,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 258.88,
+        "date": "2026-08-05"
+      }
+    ],
+    "creation_date": "2026-02-27"
+  },
+  {
+    "product_id": "prod_00078",
+    "name": "Stand-alone 4thgeneration service-desk",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 108.75,
+    "current_stock": 386,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 108.75,
+        "date": "2026-01-04"
+      }
+    ],
+    "creation_date": "2026-08-01"
+  },
+  {
+    "product_id": "prod_00079",
+    "name": "Fully-configurable hybrid leverage",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 162.67,
+    "current_stock": 626,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 162.67,
+        "date": "2026-01-20"
+      }
+    ],
+    "creation_date": "2026-04-09"
+  },
+  {
+    "product_id": "prod_00080",
+    "name": "Object-based background analyzer",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 204.73,
+    "current_stock": 345,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 204.73,
+        "date": "2026-04-02"
+      }
+    ],
+    "creation_date": "2026-04-09"
+  },
+  {
+    "product_id": "prod_00081",
+    "name": "Robust needs-based productivity",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 93.75,
+    "current_stock": 190,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 93.75,
+        "date": "2026-06-27"
+      }
+    ],
+    "creation_date": "2026-01-28"
+  },
+  {
+    "product_id": "prod_00082",
+    "name": "Switchable next generation methodology",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 184.67,
+    "current_stock": 918,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 184.67,
+        "date": "2026-10-04"
+      }
+    ],
+    "creation_date": "2026-09-10"
+  },
+  {
+    "product_id": "prod_00083",
+    "name": "Optional system-worthy collaboration",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 366.69,
+    "current_stock": 866,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 366.69,
+        "date": "2026-04-05"
+      }
+    ],
+    "creation_date": "2026-11-07"
+  },
+  {
+    "product_id": "prod_00084",
+    "name": "Horizontal empowering protocol",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 383.63,
+    "current_stock": 641,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 383.63,
+        "date": "2026-09-08"
+      }
+    ],
+    "creation_date": "2026-03-01"
+  },
+  {
+    "product_id": "prod_00085",
+    "name": "Quality-focused contextually-based knowledge user",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 352.25,
+    "current_stock": 835,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 352.25,
+        "date": "2026-08-29"
+      }
+    ],
+    "creation_date": "2026-04-27"
+  },
+  {
+    "product_id": "prod_00086",
+    "name": "Self-enabling 6thgeneration budgetary management",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 490.8,
+    "current_stock": 715,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 490.8,
+        "date": "2026-01-25"
+      }
+    ],
+    "creation_date": "2026-05-23"
+  },
+  {
+    "product_id": "prod_00087",
+    "name": "Pre-emptive upward-trending middleware",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 376.41,
+    "current_stock": 451,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 376.41,
+        "date": "2026-01-03"
+      }
+    ],
+    "creation_date": "2026-02-06"
+  },
+  {
+    "product_id": "prod_00088",
+    "name": "Sharable mission-critical projection",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 110.27,
+    "current_stock": 582,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 110.27,
+        "date": "2026-04-25"
+      }
+    ],
+    "creation_date": "2026-04-25"
+  },
+  {
+    "product_id": "prod_00089",
+    "name": "Compatible explicit projection",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 114.8,
+    "current_stock": 447,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 114.8,
+        "date": "2026-01-26"
+      }
+    ],
+    "creation_date": "2026-11-05"
+  },
+  {
+    "product_id": "prod_00090",
+    "name": "Synergized zero-defect groupware",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 183.98,
+    "current_stock": 486,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 183.98,
+        "date": "2026-03-31"
+      }
+    ],
+    "creation_date": "2026-09-23"
+  },
+  {
+    "product_id": "prod_00091",
+    "name": "Innovative clear-thinking installation",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 358.75,
+    "current_stock": 985,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 358.75,
+        "date": "2026-06-08"
+      }
+    ],
+    "creation_date": "2026-10-03"
+  },
+  {
+    "product_id": "prod_00092",
+    "name": "Self-enabling cohesive productivity",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 472.79,
+    "current_stock": 217,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 472.79,
+        "date": "2026-08-27"
+      }
+    ],
+    "creation_date": "2026-07-28"
+  },
+  {
+    "product_id": "prod_00093",
+    "name": "Quality-focused maximized matrices",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 279.31,
+    "current_stock": 954,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 279.31,
+        "date": "2026-05-26"
+      }
+    ],
+    "creation_date": "2026-01-29"
+  },
+  {
+    "product_id": "prod_00094",
+    "name": "Extended fresh-thinking database",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 436.61,
+    "current_stock": 419,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 436.61,
+        "date": "2026-07-10"
+      }
+    ],
+    "creation_date": "2026-10-20"
+  },
+  {
+    "product_id": "prod_00095",
+    "name": "Up-sized national budgetary management",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 42.56,
+    "current_stock": 691,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 42.56,
+        "date": "2026-03-30"
+      }
+    ],
+    "creation_date": "2026-02-24"
+  },
+  {
+    "product_id": "prod_00096",
+    "name": "Devolved mission-critical utilization",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 307.07,
+    "current_stock": 643,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 307.07,
+        "date": "2026-08-08"
+      }
+    ],
+    "creation_date": "2026-07-26"
+  },
+  {
+    "product_id": "prod_00097",
+    "name": "Adaptive homogeneous attitude",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 444.36,
+    "current_stock": 780,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 444.36,
+        "date": "2026-05-30"
+      }
+    ],
+    "creation_date": "2026-03-23"
+  },
+  {
+    "product_id": "prod_00098",
+    "name": "Versatile transitional monitoring",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 254.73,
+    "current_stock": 273,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 254.73,
+        "date": "2026-10-12"
+      }
+    ],
+    "creation_date": "2026-08-19"
+  },
+  {
+    "product_id": "prod_00099",
+    "name": "Down-sized zero administration architecture",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 272.21,
+    "current_stock": 90,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 272.21,
+        "date": "2026-01-02"
+      }
+    ],
+    "creation_date": "2026-07-10"
+  },
+  {
+    "product_id": "prod_00100",
+    "name": "Mandatory optimal project",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_03",
+    "base_price": 221.69,
+    "current_stock": 80,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 221.69,
+        "date": "2026-08-20"
+      }
+    ],
+    "creation_date": "2026-06-03"
+  },
+  {
+    "product_id": "prod_00101",
+    "name": "Focused executive leverage",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 287.95,
+    "current_stock": 405,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 287.95,
+        "date": "2026-02-23"
+      }
+    ],
+    "creation_date": "2026-02-06"
+  },
+  {
+    "product_id": "prod_00102",
+    "name": "Enterprise-wide bifurcated benchmark",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 268.88,
+    "current_stock": 409,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 268.88,
+        "date": "2026-02-01"
+      }
+    ],
+    "creation_date": "2026-09-03"
+  },
+  {
+    "product_id": "prod_00103",
+    "name": "Seamless client-driven info-mediaries",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 35.62,
+    "current_stock": 476,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 35.62,
+        "date": "2026-05-19"
+      }
+    ],
+    "creation_date": "2026-08-21"
+  },
+  {
+    "product_id": "prod_00104",
+    "name": "Synergistic client-driven approach",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 62.08,
+    "current_stock": 302,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 62.08,
+        "date": "2026-02-28"
+      }
+    ],
+    "creation_date": "2026-03-09"
+  },
+  {
+    "product_id": "prod_00105",
+    "name": "Versatile full-range groupware",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 28.91,
+    "current_stock": 73,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 28.91,
+        "date": "2026-07-27"
+      }
+    ],
+    "creation_date": "2026-03-08"
+  },
+  {
+    "product_id": "prod_00106",
+    "name": "Persevering bottom-line focus group",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 367.61,
+    "current_stock": 449,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 367.61,
+        "date": "2026-02-09"
+      }
+    ],
+    "creation_date": "2026-01-14"
+  },
+  {
+    "product_id": "prod_00107",
+    "name": "Customer-focused client-driven instruction set",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 154.14,
+    "current_stock": 229,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 154.14,
+        "date": "2026-08-08"
+      }
+    ],
+    "creation_date": "2026-02-01"
+  },
+  {
+    "product_id": "prod_00108",
+    "name": "Object-based solution-oriented array",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 250.41,
+    "current_stock": 964,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 250.41,
+        "date": "2026-02-21"
+      }
+    ],
+    "creation_date": "2026-08-14"
+  },
+  {
+    "product_id": "prod_00109",
+    "name": "Programmable content-based project",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 234.37,
+    "current_stock": 833,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 234.37,
+        "date": "2026-01-23"
+      }
+    ],
+    "creation_date": "2026-09-26"
+  },
+  {
+    "product_id": "prod_00110",
+    "name": "Multi-lateral 3rdgeneration collaboration",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 44.67,
+    "current_stock": 337,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 44.67,
+        "date": "2026-04-23"
+      }
+    ],
+    "creation_date": "2026-03-16"
+  },
+  {
+    "product_id": "prod_00111",
+    "name": "Function-based needs-based initiative",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 410.04,
+    "current_stock": 782,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 410.04,
+        "date": "2026-08-31"
+      }
+    ],
+    "creation_date": "2026-11-03"
+  },
+  {
+    "product_id": "prod_00112",
+    "name": "Visionary real-time focus group",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 193.18,
+    "current_stock": 551,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 193.18,
+        "date": "2026-08-02"
+      }
+    ],
+    "creation_date": "2026-08-04"
+  },
+  {
+    "product_id": "prod_00113",
+    "name": "Synergistic 5thgeneration concept",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 126.35,
+    "current_stock": 103,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 126.35,
+        "date": "2026-07-14"
+      }
+    ],
+    "creation_date": "2026-02-13"
+  },
+  {
+    "product_id": "prod_00114",
+    "name": "Focused fresh-thinking encryption",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 428.19,
+    "current_stock": 293,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 428.19,
+        "date": "2026-04-09"
+      }
+    ],
+    "creation_date": "2026-07-13"
+  },
+  {
+    "product_id": "prod_00115",
+    "name": "Down-sized composite alliance",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 273.29,
+    "current_stock": 745,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 273.29,
+        "date": "2026-09-04"
+      }
+    ],
+    "creation_date": "2026-10-08"
+  },
+  {
+    "product_id": "prod_00116",
+    "name": "User-centric value-added benchmark",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 456.04,
+    "current_stock": 848,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 456.04,
+        "date": "2026-09-22"
+      }
+    ],
+    "creation_date": "2026-07-18"
+  },
+  {
+    "product_id": "prod_00117",
+    "name": "Phased mobile monitoring",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 76.65,
+    "current_stock": 166,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 76.65,
+        "date": "2026-03-23"
+      }
+    ],
+    "creation_date": "2026-01-12"
+  },
+  {
+    "product_id": "prod_00118",
+    "name": "Secured even-keeled knowledge user",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 183.49,
+    "current_stock": 206,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 183.49,
+        "date": "2026-09-24"
+      }
+    ],
+    "creation_date": "2026-05-19"
+  },
+  {
+    "product_id": "prod_00119",
+    "name": "User-friendly asymmetric superstructure",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 320.34,
+    "current_stock": 971,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 320.34,
+        "date": "2026-02-27"
+      }
+    ],
+    "creation_date": "2026-04-09"
+  },
+  {
+    "product_id": "prod_00120",
+    "name": "User-friendly solution-oriented utilization",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 147.71,
+    "current_stock": 802,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 147.71,
+        "date": "2026-07-21"
+      }
+    ],
+    "creation_date": "2026-01-15"
+  },
+  {
+    "product_id": "prod_00121",
+    "name": "Seamless high-level archive",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 294.44,
+    "current_stock": 457,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 294.44,
+        "date": "2026-02-17"
+      }
+    ],
+    "creation_date": "2026-03-26"
+  },
+  {
+    "product_id": "prod_00122",
+    "name": "Universal context-sensitive success",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 82.89,
+    "current_stock": 680,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 82.89,
+        "date": "2026-07-24"
+      }
+    ],
+    "creation_date": "2026-07-20"
+  },
+  {
+    "product_id": "prod_00123",
+    "name": "User-centric intangible instruction set",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 263.88,
+    "current_stock": 728,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 263.88,
+        "date": "2026-03-05"
+      }
+    ],
+    "creation_date": "2026-08-23"
+  },
+  {
+    "product_id": "prod_00124",
+    "name": "Polarized dynamic open system",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 135.74,
+    "current_stock": 674,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 135.74,
+        "date": "2026-07-23"
+      }
+    ],
+    "creation_date": "2026-10-15"
+  },
+  {
+    "product_id": "prod_00125",
+    "name": "Open-source zero administration core",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 446.62,
+    "current_stock": 679,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 446.62,
+        "date": "2026-06-24"
+      }
+    ],
+    "creation_date": "2026-06-29"
+  },
+  {
+    "product_id": "prod_00126",
+    "name": "Digitized maximized solution",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 387.77,
+    "current_stock": 243,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 387.77,
+        "date": "2026-01-25"
+      }
+    ],
+    "creation_date": "2026-06-20"
+  },
+  {
+    "product_id": "prod_00127",
+    "name": "Re-contextualized background focus group",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 58.61,
+    "current_stock": 693,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 58.61,
+        "date": "2026-01-01"
+      }
+    ],
+    "creation_date": "2026-02-27"
+  },
+  {
+    "product_id": "prod_00128",
+    "name": "Managed didactic database",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 136.39,
+    "current_stock": 330,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 136.39,
+        "date": "2026-07-02"
+      }
+    ],
+    "creation_date": "2026-09-07"
+  },
+  {
+    "product_id": "prod_00129",
+    "name": "Upgradable analyzing focus group",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 33.07,
+    "current_stock": 992,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 33.07,
+        "date": "2026-05-09"
+      }
+    ],
+    "creation_date": "2026-11-05"
+  },
+  {
+    "product_id": "prod_00130",
+    "name": "Optimized well-modulated help-desk",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 131.82,
+    "current_stock": 304,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 131.82,
+        "date": "2026-01-27"
+      }
+    ],
+    "creation_date": "2026-02-23"
+  },
+  {
+    "product_id": "prod_00131",
+    "name": "Organic homogeneous paradigm",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 382.05,
+    "current_stock": 525,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 382.05,
+        "date": "2026-03-09"
+      }
+    ],
+    "creation_date": "2026-05-21"
+  },
+  {
+    "product_id": "prod_00132",
+    "name": "Devolved secondary throughput",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 350.49,
+    "current_stock": 45,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 350.49,
+        "date": "2026-02-12"
+      }
+    ],
+    "creation_date": "2026-05-13"
+  },
+  {
+    "product_id": "prod_00133",
+    "name": "Implemented attitude-oriented core",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 456.72,
+    "current_stock": 985,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 456.72,
+        "date": "2026-01-07"
+      }
+    ],
+    "creation_date": "2026-09-04"
+  },
+  {
+    "product_id": "prod_00134",
+    "name": "Switchable non-volatile policy",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 323.29,
+    "current_stock": 490,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 323.29,
+        "date": "2026-07-07"
+      }
+    ],
+    "creation_date": "2026-04-18"
+  },
+  {
+    "product_id": "prod_00135",
+    "name": "Pre-emptive homogeneous firmware",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 316.08,
+    "current_stock": 232,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 316.08,
+        "date": "2026-10-30"
+      }
+    ],
+    "creation_date": "2026-01-12"
+  },
+  {
+    "product_id": "prod_00136",
+    "name": "Profit-focused dynamic methodology",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 10.7,
+    "current_stock": 268,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 10.7,
+        "date": "2026-06-08"
+      }
+    ],
+    "creation_date": "2026-10-14"
+  },
+  {
+    "product_id": "prod_00137",
+    "name": "Polarized client-driven adapter",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 388.49,
+    "current_stock": 963,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 388.49,
+        "date": "2026-03-28"
+      }
+    ],
+    "creation_date": "2026-08-07"
+  },
+  {
+    "product_id": "prod_00138",
+    "name": "Phased executive system engine",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 122.28,
+    "current_stock": 315,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 122.28,
+        "date": "2026-01-13"
+      }
+    ],
+    "creation_date": "2026-03-14"
+  },
+  {
+    "product_id": "prod_00139",
+    "name": "Operative uniform portal",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 338.78,
+    "current_stock": 691,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 338.78,
+        "date": "2026-07-27"
+      }
+    ],
+    "creation_date": "2026-08-31"
+  },
+  {
+    "product_id": "prod_00140",
+    "name": "Business-focused systematic software",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 398.25,
+    "current_stock": 217,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 398.25,
+        "date": "2026-09-06"
+      }
+    ],
+    "creation_date": "2026-03-09"
+  },
+  {
+    "product_id": "prod_00141",
+    "name": "Quality-focused full-range contingency",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 499.82,
+    "current_stock": 607,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 499.82,
+        "date": "2026-10-09"
+      }
+    ],
+    "creation_date": "2026-04-08"
+  },
+  {
+    "product_id": "prod_00142",
+    "name": "Multi-lateral user-facing pricing structure",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 425.19,
+    "current_stock": 135,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 425.19,
+        "date": "2026-01-28"
+      }
+    ],
+    "creation_date": "2026-05-04"
+  },
+  {
+    "product_id": "prod_00143",
+    "name": "Fundamental value-added service-desk",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_03",
+    "base_price": 286.35,
+    "current_stock": 255,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 286.35,
+        "date": "2026-07-15"
+      }
+    ],
+    "creation_date": "2026-08-18"
+  },
+  {
+    "product_id": "prod_00144",
+    "name": "Polarized maximized matrices",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 145.43,
+    "current_stock": 875,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 145.43,
+        "date": "2026-07-17"
+      }
+    ],
+    "creation_date": "2026-05-22"
+  },
+  {
+    "product_id": "prod_00145",
+    "name": "Open-source discrete protocol",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 473.92,
+    "current_stock": 312,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 473.92,
+        "date": "2026-10-05"
+      }
+    ],
+    "creation_date": "2026-03-14"
+  },
+  {
+    "product_id": "prod_00146",
+    "name": "Switchable holistic open architecture",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 469.85,
+    "current_stock": 762,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 469.85,
+        "date": "2026-05-22"
+      }
+    ],
+    "creation_date": "2026-01-05"
+  },
+  {
+    "product_id": "prod_00147",
+    "name": "Profit-focused uniform solution",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 135.56,
+    "current_stock": 319,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 135.56,
+        "date": "2026-01-19"
+      }
+    ],
+    "creation_date": "2026-01-24"
+  },
+  {
+    "product_id": "prod_00148",
+    "name": "User-centric transitional forecast",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 418.19,
+    "current_stock": 491,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 418.19,
+        "date": "2026-04-11"
+      }
+    ],
+    "creation_date": "2026-02-13"
+  },
+  {
+    "product_id": "prod_00149",
+    "name": "Streamlined coherent artificial intelligence",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 393.89,
+    "current_stock": 289,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 393.89,
+        "date": "2026-09-19"
+      }
+    ],
+    "creation_date": "2026-10-04"
+  },
+  {
+    "product_id": "prod_00150",
+    "name": "Up-sized object-oriented pricing structure",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 236.94,
+    "current_stock": 395,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 236.94,
+        "date": "2026-04-03"
+      }
+    ],
+    "creation_date": "2026-02-26"
+  },
+  {
+    "product_id": "prod_00151",
+    "name": "Multi-lateral foreground paradigm",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 54.23,
+    "current_stock": 616,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 54.23,
+        "date": "2026-01-03"
+      }
+    ],
+    "creation_date": "2026-05-11"
+  },
+  {
+    "product_id": "prod_00152",
+    "name": "Vision-oriented asynchronous knowledgebase",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 337.85,
+    "current_stock": 549,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 337.85,
+        "date": "2026-11-07"
+      }
+    ],
+    "creation_date": "2026-04-04"
+  },
+  {
+    "product_id": "prod_00153",
+    "name": "Total real-time synergy",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 288.51,
+    "current_stock": 432,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 288.51,
+        "date": "2026-01-12"
+      }
+    ],
+    "creation_date": "2026-05-24"
+  },
+  {
+    "product_id": "prod_00154",
+    "name": "Pre-emptive actuating task-force",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 174.59,
+    "current_stock": 709,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 174.59,
+        "date": "2026-04-02"
+      }
+    ],
+    "creation_date": "2026-06-27"
+  },
+  {
+    "product_id": "prod_00155",
+    "name": "Cloned web-enabled collaboration",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 373.61,
+    "current_stock": 461,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 373.61,
+        "date": "2026-09-09"
+      }
+    ],
+    "creation_date": "2026-11-07"
+  },
+  {
+    "product_id": "prod_00156",
+    "name": "Self-enabling 24/7 productivity",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 143.09,
+    "current_stock": 524,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 143.09,
+        "date": "2026-09-18"
+      }
+    ],
+    "creation_date": "2026-10-09"
+  },
+  {
+    "product_id": "prod_00157",
+    "name": "User-centric uniform challenge",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 270.61,
+    "current_stock": 936,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 270.61,
+        "date": "2026-07-16"
+      }
+    ],
+    "creation_date": "2026-02-02"
+  },
+  {
+    "product_id": "prod_00158",
+    "name": "Cross-platform responsive service-desk",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 412.37,
+    "current_stock": 668,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 412.37,
+        "date": "2026-08-30"
+      }
+    ],
+    "creation_date": "2026-08-10"
+  },
+  {
+    "product_id": "prod_00159",
+    "name": "Centralized web-enabled initiative",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 337.85,
+    "current_stock": 107,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 337.85,
+        "date": "2026-04-03"
+      }
+    ],
+    "creation_date": "2026-05-24"
+  },
+  {
+    "product_id": "prod_00160",
+    "name": "Automated heuristic interface",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_03",
+    "base_price": 183.09,
+    "current_stock": 154,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 183.09,
+        "date": "2026-09-01"
+      }
+    ],
+    "creation_date": "2026-01-03"
+  },
+  {
+    "product_id": "prod_00161",
+    "name": "Reactive cohesive encoding",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 215.17,
+    "current_stock": 903,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 215.17,
+        "date": "2026-05-12"
+      }
+    ],
+    "creation_date": "2026-06-15"
+  },
+  {
+    "product_id": "prod_00162",
+    "name": "Total dedicated benchmark",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 17.79,
+    "current_stock": 994,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 17.79,
+        "date": "2026-05-04"
+      }
+    ],
+    "creation_date": "2026-06-16"
+  },
+  {
+    "product_id": "prod_00163",
+    "name": "Managed composite definition",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 401.44,
+    "current_stock": 225,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 401.44,
+        "date": "2026-10-30"
+      }
+    ],
+    "creation_date": "2026-09-24"
+  },
+  {
+    "product_id": "prod_00164",
+    "name": "Compatible value-added monitoring",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 20.9,
+    "current_stock": 615,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 20.9,
+        "date": "2026-02-06"
+      }
+    ],
+    "creation_date": "2026-09-18"
+  },
+  {
+    "product_id": "prod_00165",
+    "name": "Multi-channeled multimedia application",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 424.02,
+    "current_stock": 595,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 424.02,
+        "date": "2026-02-07"
+      }
+    ],
+    "creation_date": "2026-10-09"
+  },
+  {
+    "product_id": "prod_00166",
+    "name": "Upgradable asymmetric toolset",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 347.84,
+    "current_stock": 458,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 347.84,
+        "date": "2026-08-15"
+      }
+    ],
+    "creation_date": "2026-06-20"
+  },
+  {
+    "product_id": "prod_00167",
+    "name": "Distributed mission-critical Local Area Network",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 288.24,
+    "current_stock": 371,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 288.24,
+        "date": "2026-02-25"
+      }
+    ],
+    "creation_date": "2026-09-25"
+  },
+  {
+    "product_id": "prod_00168",
+    "name": "Business-focused dynamic toolset",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 188.9,
+    "current_stock": 310,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 188.9,
+        "date": "2026-06-03"
+      }
+    ],
+    "creation_date": "2026-09-25"
+  },
+  {
+    "product_id": "prod_00169",
+    "name": "Progressive holistic solution",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 357.15,
+    "current_stock": 738,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 357.15,
+        "date": "2026-05-02"
+      }
+    ],
+    "creation_date": "2026-02-01"
+  },
+  {
+    "product_id": "prod_00170",
+    "name": "Intuitive logistical support",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 12.55,
+    "current_stock": 388,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 12.55,
+        "date": "2026-03-31"
+      }
+    ],
+    "creation_date": "2026-04-24"
+  },
+  {
+    "product_id": "prod_00171",
+    "name": "Balanced client-driven knowledgebase",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 385.39,
+    "current_stock": 113,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 385.39,
+        "date": "2026-01-23"
+      }
+    ],
+    "creation_date": "2026-04-24"
+  },
+  {
+    "product_id": "prod_00172",
+    "name": "Streamlined transitional service-desk",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 34.63,
+    "current_stock": 744,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 34.63,
+        "date": "2026-01-18"
+      }
+    ],
+    "creation_date": "2026-03-30"
+  },
+  {
+    "product_id": "prod_00173",
+    "name": "Multi-channeled real-time process improvement",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 322.4,
+    "current_stock": 450,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 322.4,
+        "date": "2026-06-18"
+      }
+    ],
+    "creation_date": "2026-01-03"
+  },
+  {
+    "product_id": "prod_00174",
+    "name": "Centralized intangible secured line",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 328.96,
+    "current_stock": 235,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 328.96,
+        "date": "2026-07-09"
+      }
+    ],
+    "creation_date": "2026-04-30"
+  },
+  {
+    "product_id": "prod_00175",
+    "name": "Cross-platform systematic encoding",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 33.12,
+    "current_stock": 461,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 33.12,
+        "date": "2026-04-08"
+      }
+    ],
+    "creation_date": "2026-01-12"
+  },
+  {
+    "product_id": "prod_00176",
+    "name": "Advanced multimedia capacity",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 306.38,
+    "current_stock": 356,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 306.38,
+        "date": "2026-09-06"
+      }
+    ],
+    "creation_date": "2026-05-12"
+  },
+  {
+    "product_id": "prod_00177",
+    "name": "Diverse bottom-line access",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 203.0,
+    "current_stock": 870,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 203.0,
+        "date": "2026-10-02"
+      }
+    ],
+    "creation_date": "2026-04-26"
+  },
+  {
+    "product_id": "prod_00178",
+    "name": "Future-proofed asymmetric algorithm",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 373.49,
+    "current_stock": 842,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 373.49,
+        "date": "2026-08-01"
+      }
+    ],
+    "creation_date": "2026-07-10"
+  },
+  {
+    "product_id": "prod_00179",
+    "name": "Open-source uniform initiative",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 44.43,
+    "current_stock": 96,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 44.43,
+        "date": "2026-03-01"
+      }
+    ],
+    "creation_date": "2026-04-16"
+  },
+  {
+    "product_id": "prod_00180",
+    "name": "Persevering stable installation",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 308.89,
+    "current_stock": 353,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 308.89,
+        "date": "2026-03-05"
+      }
+    ],
+    "creation_date": "2026-02-16"
+  },
+  {
+    "product_id": "prod_00181",
+    "name": "Digitized zero administration structure",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 158.2,
+    "current_stock": 200,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 158.2,
+        "date": "2026-06-30"
+      }
+    ],
+    "creation_date": "2026-01-22"
+  },
+  {
+    "product_id": "prod_00182",
+    "name": "Optimized value-added forecast",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 312.02,
+    "current_stock": 705,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 312.02,
+        "date": "2026-06-13"
+      }
+    ],
+    "creation_date": "2026-07-29"
+  },
+  {
+    "product_id": "prod_00183",
+    "name": "Reduced human-resource encoding",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 106.76,
+    "current_stock": 451,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 106.76,
+        "date": "2026-09-09"
+      }
+    ],
+    "creation_date": "2026-10-03"
+  },
+  {
+    "product_id": "prod_00184",
+    "name": "Enterprise-wide multi-tasking flexibility",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 37.05,
+    "current_stock": 398,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 37.05,
+        "date": "2026-02-10"
+      }
+    ],
+    "creation_date": "2026-07-31"
+  },
+  {
+    "product_id": "prod_00185",
+    "name": "Persevering disintermediate support",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 26.05,
+    "current_stock": 302,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 26.05,
+        "date": "2026-04-07"
+      }
+    ],
+    "creation_date": "2026-07-04"
+  },
+  {
+    "product_id": "prod_00186",
+    "name": "Seamless optimizing model",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 161.46,
+    "current_stock": 980,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 161.46,
+        "date": "2026-04-14"
+      }
+    ],
+    "creation_date": "2026-07-24"
+  },
+  {
+    "product_id": "prod_00187",
+    "name": "Right-sized bottom-line encryption",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_03",
+    "base_price": 276.83,
+    "current_stock": 175,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 276.83,
+        "date": "2026-09-21"
+      }
+    ],
+    "creation_date": "2026-06-30"
+  },
+  {
+    "product_id": "prod_00188",
+    "name": "Pre-emptive value-added monitoring",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 27.47,
+    "current_stock": 414,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 27.47,
+        "date": "2026-04-20"
+      }
+    ],
+    "creation_date": "2026-08-05"
+  },
+  {
+    "product_id": "prod_00189",
+    "name": "Networked executive open architecture",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 260.08,
+    "current_stock": 740,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 260.08,
+        "date": "2026-04-11"
+      }
+    ],
+    "creation_date": "2026-06-17"
+  },
+  {
+    "product_id": "prod_00190",
+    "name": "Total discrete data-warehouse",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 286.18,
+    "current_stock": 712,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 286.18,
+        "date": "2026-10-12"
+      }
+    ],
+    "creation_date": "2026-05-14"
+  },
+  {
+    "product_id": "prod_00191",
+    "name": "Object-based optimizing forecast",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 10.85,
+    "current_stock": 935,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 10.85,
+        "date": "2026-04-21"
+      }
+    ],
+    "creation_date": "2026-06-12"
+  },
+  {
+    "product_id": "prod_00192",
+    "name": "Progressive optimal firmware",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 304.96,
+    "current_stock": 336,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 304.96,
+        "date": "2026-11-07"
+      }
+    ],
+    "creation_date": "2026-07-31"
+  },
+  {
+    "product_id": "prod_00193",
+    "name": "Organic 6thgeneration benchmark",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 72.08,
+    "current_stock": 99,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 72.08,
+        "date": "2026-10-21"
+      }
+    ],
+    "creation_date": "2026-02-13"
+  },
+  {
+    "product_id": "prod_00194",
+    "name": "Realigned human-resource infrastructure",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 73.89,
+    "current_stock": 387,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 73.89,
+        "date": "2026-10-26"
+      }
+    ],
+    "creation_date": "2026-10-07"
+  },
+  {
+    "product_id": "prod_00195",
+    "name": "Inverse fault-tolerant website",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 370.2,
+    "current_stock": 378,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 370.2,
+        "date": "2026-05-05"
+      }
+    ],
+    "creation_date": "2026-05-03"
+  },
+  {
+    "product_id": "prod_00196",
+    "name": "Multi-channeled demand-driven Graphic Interface",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 45.24,
+    "current_stock": 826,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 45.24,
+        "date": "2026-06-13"
+      }
+    ],
+    "creation_date": "2026-01-14"
+  },
+  {
+    "product_id": "prod_00197",
+    "name": "Extended leadingedge customer loyalty",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 201.62,
+    "current_stock": 633,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 201.62,
+        "date": "2026-01-16"
+      }
+    ],
+    "creation_date": "2026-06-20"
+  },
+  {
+    "product_id": "prod_00198",
+    "name": "Devolved fresh-thinking Graphic Interface",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 330.81,
+    "current_stock": 560,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 330.81,
+        "date": "2026-07-04"
+      }
+    ],
+    "creation_date": "2026-08-04"
+  },
+  {
+    "product_id": "prod_00199",
+    "name": "Organic context-sensitive archive",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 188.27,
+    "current_stock": 933,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 188.27,
+        "date": "2026-03-12"
+      }
+    ],
+    "creation_date": "2026-02-24"
+  },
+  {
+    "product_id": "prod_00200",
+    "name": "Future-proofed systemic complexity",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 421.4,
+    "current_stock": 93,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 421.4,
+        "date": "2026-03-06"
+      }
+    ],
+    "creation_date": "2026-01-06"
+  },
+  {
+    "product_id": "prod_00201",
+    "name": "Multi-layered bandwidth-monitored implementation",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 428.98,
+    "current_stock": 879,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 428.98,
+        "date": "2026-04-01"
+      }
+    ],
+    "creation_date": "2026-02-28"
+  },
+  {
+    "product_id": "prod_00202",
+    "name": "Devolved zero tolerance moderator",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 362.08,
+    "current_stock": 986,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 362.08,
+        "date": "2026-07-25"
+      }
+    ],
+    "creation_date": "2026-05-08"
+  },
+  {
+    "product_id": "prod_00203",
+    "name": "Networked eco-centric info-mediaries",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 193.54,
+    "current_stock": 811,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 193.54,
+        "date": "2026-10-26"
+      }
+    ],
+    "creation_date": "2026-02-27"
+  },
+  {
+    "product_id": "prod_00204",
+    "name": "Open-architected 24/7 definition",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 420.95,
+    "current_stock": 341,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 420.95,
+        "date": "2026-08-25"
+      }
+    ],
+    "creation_date": "2026-09-29"
+  },
+  {
+    "product_id": "prod_00205",
+    "name": "Assimilated next generation forecast",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 375.64,
+    "current_stock": 425,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 375.64,
+        "date": "2026-07-05"
+      }
+    ],
+    "creation_date": "2026-08-16"
+  },
+  {
+    "product_id": "prod_00206",
+    "name": "Balanced next generation contingency",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 127.4,
+    "current_stock": 328,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 127.4,
+        "date": "2026-06-05"
+      }
+    ],
+    "creation_date": "2026-08-25"
+  },
+  {
+    "product_id": "prod_00207",
+    "name": "Reactive even-keeled functionalities",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 109.07,
+    "current_stock": 30,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 109.07,
+        "date": "2026-02-25"
+      }
+    ],
+    "creation_date": "2026-11-05"
+  },
+  {
+    "product_id": "prod_00208",
+    "name": "Distributed scalable hierarchy",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 313.96,
+    "current_stock": 327,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 313.96,
+        "date": "2026-03-23"
+      }
+    ],
+    "creation_date": "2026-07-11"
+  },
+  {
+    "product_id": "prod_00209",
+    "name": "Public-key neutral capability",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 365.27,
+    "current_stock": 969,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 365.27,
+        "date": "2026-08-17"
+      }
+    ],
+    "creation_date": "2026-03-25"
+  },
+  {
+    "product_id": "prod_00210",
+    "name": "Persevering zero tolerance interface",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 424.55,
+    "current_stock": 820,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 424.55,
+        "date": "2026-08-29"
+      }
+    ],
+    "creation_date": "2026-02-02"
+  },
+  {
+    "product_id": "prod_00211",
+    "name": "Inverse 6thgeneration customer loyalty",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 43.61,
+    "current_stock": 899,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 43.61,
+        "date": "2026-03-13"
+      }
+    ],
+    "creation_date": "2026-06-14"
+  },
+  {
+    "product_id": "prod_00212",
+    "name": "Extended tertiary extranet",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 153.23,
+    "current_stock": 473,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 153.23,
+        "date": "2026-05-13"
+      }
+    ],
+    "creation_date": "2026-08-04"
+  },
+  {
+    "product_id": "prod_00213",
+    "name": "Exclusive holistic hardware",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 181.36,
+    "current_stock": 336,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 181.36,
+        "date": "2026-04-11"
+      }
+    ],
+    "creation_date": "2026-07-01"
+  },
+  {
+    "product_id": "prod_00214",
+    "name": "Mandatory attitude-oriented installation",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 42.78,
+    "current_stock": 232,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 42.78,
+        "date": "2026-01-27"
+      }
+    ],
+    "creation_date": "2026-10-05"
+  },
+  {
+    "product_id": "prod_00215",
+    "name": "Sharable full-range moratorium",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 231.67,
+    "current_stock": 788,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 231.67,
+        "date": "2026-01-23"
+      }
+    ],
+    "creation_date": "2026-03-20"
+  },
+  {
+    "product_id": "prod_00216",
+    "name": "Open-source static installation",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 172.22,
+    "current_stock": 334,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 172.22,
+        "date": "2026-05-02"
+      }
+    ],
+    "creation_date": "2026-03-13"
+  },
+  {
+    "product_id": "prod_00217",
+    "name": "Persistent uniform moratorium",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 92.5,
+    "current_stock": 274,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 92.5,
+        "date": "2026-01-19"
+      }
+    ],
+    "creation_date": "2026-01-26"
+  },
+  {
+    "product_id": "prod_00218",
+    "name": "Streamlined intangible structure",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 150.31,
+    "current_stock": 681,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 150.31,
+        "date": "2026-09-01"
+      }
+    ],
+    "creation_date": "2026-03-13"
+  },
+  {
+    "product_id": "prod_00219",
+    "name": "Team-oriented mobile circuit",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 377.41,
+    "current_stock": 416,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 377.41,
+        "date": "2026-09-17"
+      }
+    ],
+    "creation_date": "2026-04-16"
+  },
+  {
+    "product_id": "prod_00220",
+    "name": "Seamless motivating portal",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 10.17,
+    "current_stock": 723,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 10.17,
+        "date": "2026-03-15"
+      }
+    ],
+    "creation_date": "2026-01-07"
+  },
+  {
+    "product_id": "prod_00221",
+    "name": "Organic contextually-based forecast",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 420.15,
+    "current_stock": 267,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 420.15,
+        "date": "2026-02-16"
+      }
+    ],
+    "creation_date": "2026-06-04"
+  },
+  {
+    "product_id": "prod_00222",
+    "name": "Realigned executive encryption",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 359.67,
+    "current_stock": 973,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 359.67,
+        "date": "2026-01-25"
+      }
+    ],
+    "creation_date": "2026-03-08"
+  },
+  {
+    "product_id": "prod_00223",
+    "name": "Public-key discrete utilization",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 192.2,
+    "current_stock": 767,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 192.2,
+        "date": "2026-04-04"
+      }
+    ],
+    "creation_date": "2026-10-10"
+  },
+  {
+    "product_id": "prod_00224",
+    "name": "Horizontal 24/7 hub",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 78.44,
+    "current_stock": 291,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 78.44,
+        "date": "2026-03-03"
+      }
+    ],
+    "creation_date": "2026-02-12"
+  },
+  {
+    "product_id": "prod_00225",
+    "name": "Mandatory responsive groupware",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 419.35,
+    "current_stock": 830,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 419.35,
+        "date": "2026-08-02"
+      }
+    ],
+    "creation_date": "2026-10-06"
+  },
+  {
+    "product_id": "prod_00226",
+    "name": "Quality-focused discrete secured line",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 328.56,
+    "current_stock": 798,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 328.56,
+        "date": "2026-09-16"
+      }
+    ],
+    "creation_date": "2026-09-26"
+  },
+  {
+    "product_id": "prod_00227",
+    "name": "Self-enabling hybrid function",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 307.32,
+    "current_stock": 967,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 307.32,
+        "date": "2026-04-14"
+      }
+    ],
+    "creation_date": "2026-05-30"
+  },
+  {
+    "product_id": "prod_00228",
+    "name": "Reverse-engineered zero tolerance hardware",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 325.14,
+    "current_stock": 533,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 325.14,
+        "date": "2026-04-13"
+      }
+    ],
+    "creation_date": "2026-04-25"
+  },
+  {
+    "product_id": "prod_00229",
+    "name": "Team-oriented 3rdgeneration emulation",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 269.32,
+    "current_stock": 935,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 269.32,
+        "date": "2026-05-14"
+      }
+    ],
+    "creation_date": "2026-08-25"
+  },
+  {
+    "product_id": "prod_00230",
+    "name": "Assimilated global application",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 102.85,
+    "current_stock": 266,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 102.85,
+        "date": "2026-10-10"
+      }
+    ],
+    "creation_date": "2026-05-26"
+  },
+  {
+    "product_id": "prod_00231",
+    "name": "Innovative intermediate groupware",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 367.58,
+    "current_stock": 350,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 367.58,
+        "date": "2026-01-19"
+      }
+    ],
+    "creation_date": "2026-06-22"
+  },
+  {
+    "product_id": "prod_00232",
+    "name": "Digitized hybrid neural-net",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 131.67,
+    "current_stock": 244,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 131.67,
+        "date": "2026-04-10"
+      }
+    ],
+    "creation_date": "2026-04-28"
+  },
+  {
+    "product_id": "prod_00233",
+    "name": "Optimized scalable migration",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 400.48,
+    "current_stock": 341,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 400.48,
+        "date": "2026-04-01"
+      }
+    ],
+    "creation_date": "2026-10-20"
+  },
+  {
+    "product_id": "prod_00234",
+    "name": "Business-focused static model",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 260.86,
+    "current_stock": 560,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 260.86,
+        "date": "2026-10-08"
+      }
+    ],
+    "creation_date": "2026-08-21"
+  },
+  {
+    "product_id": "prod_00235",
+    "name": "Seamless analyzing capacity",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 240.82,
+    "current_stock": 574,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 240.82,
+        "date": "2026-06-14"
+      }
+    ],
+    "creation_date": "2026-01-02"
+  },
+  {
+    "product_id": "prod_00236",
+    "name": "Advanced systemic synergy",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 255.34,
+    "current_stock": 493,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 255.34,
+        "date": "2026-08-28"
+      }
+    ],
+    "creation_date": "2026-04-10"
+  },
+  {
+    "product_id": "prod_00237",
+    "name": "Team-oriented scalable encoding",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 467.94,
+    "current_stock": 285,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 467.94,
+        "date": "2026-02-10"
+      }
+    ],
+    "creation_date": "2026-07-30"
+  },
+  {
+    "product_id": "prod_00238",
+    "name": "Up-sized maximized infrastructure",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 317.42,
+    "current_stock": 461,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 317.42,
+        "date": "2026-11-05"
+      }
+    ],
+    "creation_date": "2026-06-27"
+  },
+  {
+    "product_id": "prod_00239",
+    "name": "Re-engineered secondary interface",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 372.93,
+    "current_stock": 141,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 372.93,
+        "date": "2026-04-23"
+      }
+    ],
+    "creation_date": "2026-08-06"
+  },
+  {
+    "product_id": "prod_00240",
+    "name": "Centralized incremental projection",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 351.63,
+    "current_stock": 417,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 351.63,
+        "date": "2026-07-23"
+      }
+    ],
+    "creation_date": "2026-06-07"
+  },
+  {
+    "product_id": "prod_00241",
+    "name": "Synergized demand-driven projection",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 183.24,
+    "current_stock": 109,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 183.24,
+        "date": "2026-07-21"
+      }
+    ],
+    "creation_date": "2026-04-26"
+  },
+  {
+    "product_id": "prod_00242",
+    "name": "Multi-layered scalable hardware",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 305.74,
+    "current_stock": 510,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 305.74,
+        "date": "2026-01-07"
+      }
+    ],
+    "creation_date": "2026-02-23"
+  },
+  {
+    "product_id": "prod_00243",
+    "name": "Quality-focused systemic success",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 491.77,
+    "current_stock": 450,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 491.77,
+        "date": "2026-01-13"
+      }
+    ],
+    "creation_date": "2026-07-12"
+  },
+  {
+    "product_id": "prod_00244",
+    "name": "Distributed leadingedge leverage",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 297.62,
+    "current_stock": 892,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 297.62,
+        "date": "2026-08-07"
+      }
+    ],
+    "creation_date": "2026-10-27"
+  },
+  {
+    "product_id": "prod_00245",
+    "name": "Profound multi-tasking functionalities",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 14.02,
+    "current_stock": 574,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 14.02,
+        "date": "2026-08-20"
+      }
+    ],
+    "creation_date": "2026-04-08"
+  },
+  {
+    "product_id": "prod_00246",
+    "name": "Optimized static strategy",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 59.49,
+    "current_stock": 766,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 59.49,
+        "date": "2026-06-18"
+      }
+    ],
+    "creation_date": "2026-09-29"
+  },
+  {
+    "product_id": "prod_00247",
+    "name": "De-engineered background strategy",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 448.7,
+    "current_stock": 202,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 448.7,
+        "date": "2026-08-05"
+      }
+    ],
+    "creation_date": "2026-06-07"
+  },
+  {
+    "product_id": "prod_00248",
+    "name": "Face-to-face client-server support",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 245.0,
+    "current_stock": 558,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 245.0,
+        "date": "2026-04-13"
+      }
+    ],
+    "creation_date": "2026-03-09"
+  },
+  {
+    "product_id": "prod_00249",
+    "name": "Organic executive groupware",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 189.89,
+    "current_stock": 228,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 189.89,
+        "date": "2026-03-09"
+      }
+    ],
+    "creation_date": "2026-01-15"
+  },
+  {
+    "product_id": "prod_00250",
+    "name": "Intuitive maximized matrices",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 257.78,
+    "current_stock": 308,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 257.78,
+        "date": "2026-03-28"
+      }
+    ],
+    "creation_date": "2026-05-17"
+  },
+  {
+    "product_id": "prod_00251",
+    "name": "Fully-configurable content-based support",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 285.88,
+    "current_stock": 469,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 285.88,
+        "date": "2026-03-27"
+      }
+    ],
+    "creation_date": "2026-07-27"
+  },
+  {
+    "product_id": "prod_00252",
+    "name": "Upgradable 4thgeneration moderator",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 342.06,
+    "current_stock": 707,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 342.06,
+        "date": "2026-11-04"
+      }
+    ],
+    "creation_date": "2026-01-09"
+  },
+  {
+    "product_id": "prod_00253",
+    "name": "Future-proofed maximized monitoring",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 61.33,
+    "current_stock": 216,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 61.33,
+        "date": "2026-01-11"
+      }
+    ],
+    "creation_date": "2026-04-28"
+  },
+  {
+    "product_id": "prod_00254",
+    "name": "Public-key coherent access",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 30.26,
+    "current_stock": 381,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 30.26,
+        "date": "2026-11-01"
+      }
+    ],
+    "creation_date": "2026-07-11"
+  },
+  {
+    "product_id": "prod_00255",
+    "name": "Customer-focused tertiary encoding",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 153.0,
+    "current_stock": 422,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 153.0,
+        "date": "2026-10-22"
+      }
+    ],
+    "creation_date": "2026-09-05"
+  },
+  {
+    "product_id": "prod_00256",
+    "name": "Devolved even-keeled methodology",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 236.66,
+    "current_stock": 451,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 236.66,
+        "date": "2026-10-02"
+      }
+    ],
+    "creation_date": "2026-01-13"
+  },
+  {
+    "product_id": "prod_00257",
+    "name": "Re-engineered object-oriented methodology",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 164.56,
+    "current_stock": 651,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 164.56,
+        "date": "2026-11-03"
+      }
+    ],
+    "creation_date": "2026-10-25"
+  },
+  {
+    "product_id": "prod_00258",
+    "name": "Inverse 3rdgeneration archive",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 300.66,
+    "current_stock": 512,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 300.66,
+        "date": "2026-01-06"
+      }
+    ],
+    "creation_date": "2026-04-21"
+  },
+  {
+    "product_id": "prod_00259",
+    "name": "Focused homogeneous product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 446.16,
+    "current_stock": 313,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 446.16,
+        "date": "2026-02-28"
+      }
+    ],
+    "creation_date": "2026-05-18"
+  },
+  {
+    "product_id": "prod_00260",
+    "name": "Operative intermediate portal",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 298.31,
+    "current_stock": 940,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 298.31,
+        "date": "2026-07-21"
+      }
+    ],
+    "creation_date": "2026-02-13"
+  },
+  {
+    "product_id": "prod_00261",
+    "name": "Streamlined full-range synergy",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 17.73,
+    "current_stock": 276,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 17.73,
+        "date": "2026-10-22"
+      }
+    ],
+    "creation_date": "2026-02-28"
+  },
+  {
+    "product_id": "prod_00262",
+    "name": "Robust 6thgeneration knowledgebase",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 424.63,
+    "current_stock": 889,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 424.63,
+        "date": "2026-08-17"
+      }
+    ],
+    "creation_date": "2026-01-09"
+  },
+  {
+    "product_id": "prod_00263",
+    "name": "User-friendly high-level focus group",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 461.09,
+    "current_stock": 177,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 461.09,
+        "date": "2026-03-11"
+      }
+    ],
+    "creation_date": "2026-02-22"
+  },
+  {
+    "product_id": "prod_00264",
+    "name": "Object-based fault-tolerant encoding",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 322.18,
+    "current_stock": 315,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 322.18,
+        "date": "2026-09-13"
+      }
+    ],
+    "creation_date": "2026-11-07"
+  },
+  {
+    "product_id": "prod_00265",
+    "name": "Phased exuding pricing structure",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 109.43,
+    "current_stock": 629,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 109.43,
+        "date": "2026-10-31"
+      }
+    ],
+    "creation_date": "2026-08-16"
+  },
+  {
+    "product_id": "prod_00266",
+    "name": "Extended actuating encryption",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 497.46,
+    "current_stock": 84,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 497.46,
+        "date": "2026-04-01"
+      }
+    ],
+    "creation_date": "2026-03-08"
+  },
+  {
+    "product_id": "prod_00267",
+    "name": "Advanced asymmetric standardization",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 336.78,
+    "current_stock": 803,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 336.78,
+        "date": "2026-02-26"
+      }
+    ],
+    "creation_date": "2026-05-02"
+  },
+  {
+    "product_id": "prod_00268",
+    "name": "Exclusive neutral strategy",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 158.34,
+    "current_stock": 286,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 158.34,
+        "date": "2026-11-07"
+      }
+    ],
+    "creation_date": "2026-07-19"
+  },
+  {
+    "product_id": "prod_00269",
+    "name": "Cross-group motivating focus group",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 107.96,
+    "current_stock": 607,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 107.96,
+        "date": "2026-07-29"
+      }
+    ],
+    "creation_date": "2026-05-07"
+  },
+  {
+    "product_id": "prod_00270",
+    "name": "Integrated foreground function",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 171.58,
+    "current_stock": 675,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 171.58,
+        "date": "2026-03-15"
+      }
+    ],
+    "creation_date": "2026-02-11"
+  },
+  {
+    "product_id": "prod_00271",
+    "name": "Virtual 4thgeneration strategy",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 480.72,
+    "current_stock": 351,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 480.72,
+        "date": "2026-02-14"
+      }
+    ],
+    "creation_date": "2026-05-31"
+  },
+  {
+    "product_id": "prod_00272",
+    "name": "Streamlined composite complexity",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 137.98,
+    "current_stock": 470,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 137.98,
+        "date": "2026-05-05"
+      }
+    ],
+    "creation_date": "2026-04-06"
+  },
+  {
+    "product_id": "prod_00273",
+    "name": "Balanced intangible parallelism",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 40.98,
+    "current_stock": 70,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 40.98,
+        "date": "2026-04-17"
+      }
+    ],
+    "creation_date": "2026-05-13"
+  },
+  {
+    "product_id": "prod_00274",
+    "name": "Customer-focused systemic policy",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 248.56,
+    "current_stock": 431,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 248.56,
+        "date": "2026-09-08"
+      }
+    ],
+    "creation_date": "2026-07-02"
+  },
+  {
+    "product_id": "prod_00275",
+    "name": "Enterprise-wide zero tolerance artificial intelligence",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 266.17,
+    "current_stock": 114,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 266.17,
+        "date": "2026-06-07"
+      }
+    ],
+    "creation_date": "2026-03-29"
+  },
+  {
+    "product_id": "prod_00276",
+    "name": "Programmable systematic instruction set",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 81.44,
+    "current_stock": 803,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 81.44,
+        "date": "2026-06-26"
+      }
+    ],
+    "creation_date": "2026-10-14"
+  },
+  {
+    "product_id": "prod_00277",
+    "name": "Mandatory coherent matrices",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 441.14,
+    "current_stock": 449,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 441.14,
+        "date": "2026-10-04"
+      }
+    ],
+    "creation_date": "2026-04-07"
+  },
+  {
+    "product_id": "prod_00278",
+    "name": "Advanced human-resource architecture",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 418.68,
+    "current_stock": 699,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 418.68,
+        "date": "2026-05-15"
+      }
+    ],
+    "creation_date": "2026-10-14"
+  },
+  {
+    "product_id": "prod_00279",
+    "name": "Open-source real-time utilization",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 74.02,
+    "current_stock": 282,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 74.02,
+        "date": "2026-02-14"
+      }
+    ],
+    "creation_date": "2026-06-08"
+  },
+  {
+    "product_id": "prod_00280",
+    "name": "Stand-alone zero administration product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 478.41,
+    "current_stock": 721,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 478.41,
+        "date": "2026-01-17"
+      }
+    ],
+    "creation_date": "2026-07-25"
+  },
+  {
+    "product_id": "prod_00281",
+    "name": "Reactive fresh-thinking flexibility",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 423.62,
+    "current_stock": 470,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 423.62,
+        "date": "2026-07-25"
+      }
+    ],
+    "creation_date": "2026-03-18"
+  },
+  {
+    "product_id": "prod_00282",
+    "name": "Multi-lateral mission-critical capacity",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 489.93,
+    "current_stock": 269,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 489.93,
+        "date": "2026-05-10"
+      }
+    ],
+    "creation_date": "2026-02-10"
+  },
+  {
+    "product_id": "prod_00283",
+    "name": "Stand-alone non-volatile data-warehouse",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 305.82,
+    "current_stock": 450,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 305.82,
+        "date": "2026-01-11"
+      }
+    ],
+    "creation_date": "2026-08-12"
+  },
+  {
+    "product_id": "prod_00284",
+    "name": "Phased fresh-thinking success",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 450.99,
+    "current_stock": 349,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 450.99,
+        "date": "2026-03-27"
+      }
+    ],
+    "creation_date": "2026-01-18"
+  },
+  {
+    "product_id": "prod_00285",
+    "name": "Future-proofed scalable collaboration",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 101.46,
+    "current_stock": 65,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 101.46,
+        "date": "2026-04-30"
+      }
+    ],
+    "creation_date": "2026-07-11"
+  },
+  {
+    "product_id": "prod_00286",
+    "name": "Up-sized needs-based circuit",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 313.08,
+    "current_stock": 960,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 313.08,
+        "date": "2026-08-22"
+      }
+    ],
+    "creation_date": "2026-08-25"
+  },
+  {
+    "product_id": "prod_00287",
+    "name": "Reverse-engineered solution-oriented toolset",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 84.76,
+    "current_stock": 943,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 84.76,
+        "date": "2026-09-11"
+      }
+    ],
+    "creation_date": "2026-08-29"
+  },
+  {
+    "product_id": "prod_00288",
+    "name": "Mandatory solution-oriented challenge",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 472.98,
+    "current_stock": 246,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 472.98,
+        "date": "2026-05-05"
+      }
+    ],
+    "creation_date": "2026-10-15"
+  },
+  {
+    "product_id": "prod_00289",
+    "name": "Team-oriented eco-centric challenge",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 146.4,
+    "current_stock": 176,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 146.4,
+        "date": "2026-09-27"
+      }
+    ],
+    "creation_date": "2026-02-17"
+  },
+  {
+    "product_id": "prod_00290",
+    "name": "Business-focused client-server leverage",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 302.7,
+    "current_stock": 480,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 302.7,
+        "date": "2026-09-19"
+      }
+    ],
+    "creation_date": "2026-03-20"
+  },
+  {
+    "product_id": "prod_00291",
+    "name": "Exclusive full-range complexity",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 160.23,
+    "current_stock": 545,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 160.23,
+        "date": "2026-06-06"
+      }
+    ],
+    "creation_date": "2026-11-04"
+  },
+  {
+    "product_id": "prod_00292",
+    "name": "Multi-channeled motivating frame",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 352.22,
+    "current_stock": 738,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 352.22,
+        "date": "2026-01-06"
+      }
+    ],
+    "creation_date": "2026-05-18"
+  },
+  {
+    "product_id": "prod_00293",
+    "name": "Team-oriented motivating open system",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 362.74,
+    "current_stock": 455,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 362.74,
+        "date": "2026-02-15"
+      }
+    ],
+    "creation_date": "2026-10-19"
+  },
+  {
+    "product_id": "prod_00294",
+    "name": "Robust upward-trending service-desk",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 215.14,
+    "current_stock": 295,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 215.14,
+        "date": "2026-04-29"
+      }
+    ],
+    "creation_date": "2026-09-12"
+  },
+  {
+    "product_id": "prod_00295",
+    "name": "User-centric full-range flexibility",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 314.2,
+    "current_stock": 164,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 314.2,
+        "date": "2026-08-28"
+      }
+    ],
+    "creation_date": "2026-04-24"
+  },
+  {
+    "product_id": "prod_00296",
+    "name": "Proactive reciprocal parallelism",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 15.06,
+    "current_stock": 707,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 15.06,
+        "date": "2026-07-24"
+      }
+    ],
+    "creation_date": "2026-09-27"
+  },
+  {
+    "product_id": "prod_00297",
+    "name": "Diverse discrete data-warehouse",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 213.08,
+    "current_stock": 982,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 213.08,
+        "date": "2026-10-04"
+      }
+    ],
+    "creation_date": "2026-02-12"
+  },
+  {
+    "product_id": "prod_00298",
+    "name": "Fully-configurable high-level neural-net",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 324.21,
+    "current_stock": 393,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 324.21,
+        "date": "2026-10-12"
+      }
+    ],
+    "creation_date": "2026-07-03"
+  },
+  {
+    "product_id": "prod_00299",
+    "name": "Cross-group bottom-line throughput",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 284.18,
+    "current_stock": 184,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 284.18,
+        "date": "2026-01-28"
+      }
+    ],
+    "creation_date": "2026-01-27"
+  },
+  {
+    "product_id": "prod_00300",
+    "name": "Switchable encompassing function",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 413.16,
+    "current_stock": 198,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 413.16,
+        "date": "2026-02-05"
+      }
+    ],
+    "creation_date": "2026-05-04"
+  },
+  {
+    "product_id": "prod_00301",
+    "name": "Proactive optimizing complexity",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 22.18,
+    "current_stock": 876,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 22.18,
+        "date": "2026-08-01"
+      }
+    ],
+    "creation_date": "2026-10-09"
+  },
+  {
+    "product_id": "prod_00302",
+    "name": "Networked real-time monitoring",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 98.73,
+    "current_stock": 362,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 98.73,
+        "date": "2026-07-29"
+      }
+    ],
+    "creation_date": "2026-03-09"
+  },
+  {
+    "product_id": "prod_00303",
+    "name": "Integrated bi-directional matrix",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 261.39,
+    "current_stock": 285,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 261.39,
+        "date": "2026-03-13"
+      }
+    ],
+    "creation_date": "2026-02-07"
+  },
+  {
+    "product_id": "prod_00304",
+    "name": "Exclusive reciprocal matrices",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 299.82,
+    "current_stock": 973,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 299.82,
+        "date": "2026-03-05"
+      }
+    ],
+    "creation_date": "2026-07-04"
+  },
+  {
+    "product_id": "prod_00305",
+    "name": "Synergistic upward-trending analyzer",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 337.25,
+    "current_stock": 148,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 337.25,
+        "date": "2026-10-12"
+      }
+    ],
+    "creation_date": "2026-08-30"
+  },
+  {
+    "product_id": "prod_00306",
+    "name": "Devolved high-level policy",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 118.3,
+    "current_stock": 643,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 118.3,
+        "date": "2026-09-05"
+      }
+    ],
+    "creation_date": "2026-09-22"
+  },
+  {
+    "product_id": "prod_00307",
+    "name": "Multi-channeled 6thgeneration conglomeration",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 138.74,
+    "current_stock": 377,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 138.74,
+        "date": "2026-04-19"
+      }
+    ],
+    "creation_date": "2026-03-06"
+  },
+  {
+    "product_id": "prod_00308",
+    "name": "Upgradable exuding framework",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 306.38,
+    "current_stock": 514,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 306.38,
+        "date": "2026-02-17"
+      }
+    ],
+    "creation_date": "2026-01-10"
+  },
+  {
+    "product_id": "prod_00309",
+    "name": "Organic uniform portal",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 98.47,
+    "current_stock": 287,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 98.47,
+        "date": "2026-04-26"
+      }
+    ],
+    "creation_date": "2026-11-06"
+  },
+  {
+    "product_id": "prod_00310",
+    "name": "Fully-configurable cohesive concept",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 431.81,
+    "current_stock": 84,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 431.81,
+        "date": "2026-06-16"
+      }
+    ],
+    "creation_date": "2026-08-19"
+  },
+  {
+    "product_id": "prod_00311",
+    "name": "Organized client-server strategy",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 159.57,
+    "current_stock": 97,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 159.57,
+        "date": "2026-01-03"
+      }
+    ],
+    "creation_date": "2026-02-22"
+  },
+  {
+    "product_id": "prod_00312",
+    "name": "Exclusive incremental emulation",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 447.65,
+    "current_stock": 184,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 447.65,
+        "date": "2026-01-18"
+      }
+    ],
+    "creation_date": "2026-04-23"
+  },
+  {
+    "product_id": "prod_00313",
+    "name": "Decentralized bi-directional workforce",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 299.15,
+    "current_stock": 985,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 299.15,
+        "date": "2026-06-27"
+      }
+    ],
+    "creation_date": "2026-04-24"
+  },
+  {
+    "product_id": "prod_00314",
+    "name": "Intuitive scalable groupware",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 222.07,
+    "current_stock": 916,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 222.07,
+        "date": "2026-08-11"
+      }
+    ],
+    "creation_date": "2026-09-05"
+  },
+  {
+    "product_id": "prod_00315",
+    "name": "Function-based uniform process improvement",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 480.6,
+    "current_stock": 343,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 480.6,
+        "date": "2026-07-12"
+      }
+    ],
+    "creation_date": "2026-08-16"
+  },
+  {
+    "product_id": "prod_00316",
+    "name": "Horizontal transitional implementation",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 296.73,
+    "current_stock": 57,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 296.73,
+        "date": "2026-08-06"
+      }
+    ],
+    "creation_date": "2026-07-19"
+  },
+  {
+    "product_id": "prod_00317",
+    "name": "Face-to-face web-enabled orchestration",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 441.33,
+    "current_stock": 770,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 441.33,
+        "date": "2026-01-04"
+      }
+    ],
+    "creation_date": "2026-07-06"
+  },
+  {
+    "product_id": "prod_00318",
+    "name": "Future-proofed explicit pricing structure",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 424.31,
+    "current_stock": 195,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 424.31,
+        "date": "2026-02-11"
+      }
+    ],
+    "creation_date": "2026-04-23"
+  },
+  {
+    "product_id": "prod_00319",
+    "name": "Open-architected global time-frame",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 47.74,
+    "current_stock": 559,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 47.74,
+        "date": "2026-11-02"
+      }
+    ],
+    "creation_date": "2026-10-26"
+  },
+  {
+    "product_id": "prod_00320",
+    "name": "Persevering user-facing standardization",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 440.88,
+    "current_stock": 673,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 440.88,
+        "date": "2026-06-30"
+      }
+    ],
+    "creation_date": "2026-10-25"
+  },
+  {
+    "product_id": "prod_00321",
+    "name": "Organized attitude-oriented complexity",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 479.05,
+    "current_stock": 753,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 479.05,
+        "date": "2026-08-07"
+      }
+    ],
+    "creation_date": "2026-10-15"
+  },
+  {
+    "product_id": "prod_00322",
+    "name": "Programmable systemic toolset",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 250.39,
+    "current_stock": 790,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 250.39,
+        "date": "2026-03-25"
+      }
+    ],
+    "creation_date": "2026-10-09"
+  },
+  {
+    "product_id": "prod_00323",
+    "name": "Persevering incremental monitoring",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 143.7,
+    "current_stock": 617,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 143.7,
+        "date": "2026-09-23"
+      }
+    ],
+    "creation_date": "2026-02-07"
+  },
+  {
+    "product_id": "prod_00324",
+    "name": "Cloned global pricing structure",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 298.18,
+    "current_stock": 907,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 298.18,
+        "date": "2026-07-18"
+      }
+    ],
+    "creation_date": "2026-07-25"
+  },
+  {
+    "product_id": "prod_00325",
+    "name": "Centralized upward-trending encoding",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 455.86,
+    "current_stock": 126,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 455.86,
+        "date": "2026-01-05"
+      }
+    ],
+    "creation_date": "2026-02-01"
+  },
+  {
+    "product_id": "prod_00326",
+    "name": "Secured tertiary website",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 133.27,
+    "current_stock": 896,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 133.27,
+        "date": "2026-07-03"
+      }
+    ],
+    "creation_date": "2026-10-19"
+  },
+  {
+    "product_id": "prod_00327",
+    "name": "Persevering didactic data-warehouse",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 100.8,
+    "current_stock": 854,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 100.8,
+        "date": "2026-09-24"
+      }
+    ],
+    "creation_date": "2026-04-28"
+  },
+  {
+    "product_id": "prod_00328",
+    "name": "Assimilated coherent solution",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 271.2,
+    "current_stock": 136,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 271.2,
+        "date": "2026-05-22"
+      }
+    ],
+    "creation_date": "2026-04-13"
+  },
+  {
+    "product_id": "prod_00329",
+    "name": "Realigned content-based structure",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 454.08,
+    "current_stock": 332,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 454.08,
+        "date": "2026-01-01"
+      }
+    ],
+    "creation_date": "2026-01-13"
+  },
+  {
+    "product_id": "prod_00330",
+    "name": "Virtual analyzing structure",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 82.27,
+    "current_stock": 398,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 82.27,
+        "date": "2026-11-06"
+      }
+    ],
+    "creation_date": "2026-03-25"
+  },
+  {
+    "product_id": "prod_00331",
+    "name": "Reduced regional policy",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 358.67,
+    "current_stock": 313,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 358.67,
+        "date": "2026-08-17"
+      }
+    ],
+    "creation_date": "2026-08-23"
+  },
+  {
+    "product_id": "prod_00332",
+    "name": "Down-sized clear-thinking complexity",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 190.87,
+    "current_stock": 94,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 190.87,
+        "date": "2026-05-07"
+      }
+    ],
+    "creation_date": "2026-03-05"
+  },
+  {
+    "product_id": "prod_00333",
+    "name": "Re-engineered optimal installation",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 99.37,
+    "current_stock": 970,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 99.37,
+        "date": "2026-04-04"
+      }
+    ],
+    "creation_date": "2026-10-11"
+  },
+  {
+    "product_id": "prod_00334",
+    "name": "Assimilated grid-enabled open system",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 155.54,
+    "current_stock": 602,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 155.54,
+        "date": "2026-04-13"
+      }
+    ],
+    "creation_date": "2026-08-07"
+  },
+  {
+    "product_id": "prod_00335",
+    "name": "Centralized encompassing access",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 211.18,
+    "current_stock": 144,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 211.18,
+        "date": "2026-05-25"
+      }
+    ],
+    "creation_date": "2026-09-02"
+  },
+  {
+    "product_id": "prod_00336",
+    "name": "Compatible zero tolerance open system",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 41.06,
+    "current_stock": 799,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 41.06,
+        "date": "2026-10-24"
+      }
+    ],
+    "creation_date": "2026-05-31"
+  },
+  {
+    "product_id": "prod_00337",
+    "name": "Expanded cohesive knowledgebase",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 181.37,
+    "current_stock": 699,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 181.37,
+        "date": "2026-05-07"
+      }
+    ],
+    "creation_date": "2026-05-13"
+  },
+  {
+    "product_id": "prod_00338",
+    "name": "Synergistic user-facing frame",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 225.22,
+    "current_stock": 894,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 225.22,
+        "date": "2026-03-22"
+      }
+    ],
+    "creation_date": "2026-07-13"
+  },
+  {
+    "product_id": "prod_00339",
+    "name": "Fully-configurable modular capacity",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 211.87,
+    "current_stock": 158,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 211.87,
+        "date": "2026-04-30"
+      }
+    ],
+    "creation_date": "2026-09-21"
+  },
+  {
+    "product_id": "prod_00340",
+    "name": "Synergistic disintermediate secured line",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 399.68,
+    "current_stock": 711,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 399.68,
+        "date": "2026-07-11"
+      }
+    ],
+    "creation_date": "2026-06-04"
+  },
+  {
+    "product_id": "prod_00341",
+    "name": "Visionary didactic emulation",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 234.83,
+    "current_stock": 908,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 234.83,
+        "date": "2026-09-08"
+      }
+    ],
+    "creation_date": "2026-09-15"
+  },
+  {
+    "product_id": "prod_00342",
+    "name": "Devolved solution-oriented portal",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 495.18,
+    "current_stock": 886,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 495.18,
+        "date": "2026-09-22"
+      }
+    ],
+    "creation_date": "2026-04-19"
+  },
+  {
+    "product_id": "prod_00343",
+    "name": "Devolved user-facing approach",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 104.42,
+    "current_stock": 284,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 104.42,
+        "date": "2026-03-06"
+      }
+    ],
+    "creation_date": "2026-08-27"
+  },
+  {
+    "product_id": "prod_00344",
+    "name": "Cross-group global alliance",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 264.15,
+    "current_stock": 479,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 264.15,
+        "date": "2026-02-13"
+      }
+    ],
+    "creation_date": "2026-07-05"
+  },
+  {
+    "product_id": "prod_00345",
+    "name": "Streamlined zero-defect projection",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 33.87,
+    "current_stock": 596,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 33.87,
+        "date": "2026-04-27"
+      }
+    ],
+    "creation_date": "2026-09-18"
+  },
+  {
+    "product_id": "prod_00346",
+    "name": "Fully-configurable 24/7 protocol",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 67.61,
+    "current_stock": 157,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 67.61,
+        "date": "2026-10-05"
+      }
+    ],
+    "creation_date": "2026-10-14"
+  },
+  {
+    "product_id": "prod_00347",
+    "name": "Triple-buffered didactic migration",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 468.01,
+    "current_stock": 928,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 468.01,
+        "date": "2026-05-25"
+      }
+    ],
+    "creation_date": "2026-06-23"
+  },
+  {
+    "product_id": "prod_00348",
+    "name": "Re-engineered reciprocal approach",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 486.99,
+    "current_stock": 144,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 486.99,
+        "date": "2026-01-30"
+      }
+    ],
+    "creation_date": "2026-10-08"
+  },
+  {
+    "product_id": "prod_00349",
+    "name": "Ergonomic secondary time-frame",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 72.85,
+    "current_stock": 157,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 72.85,
+        "date": "2026-08-06"
+      }
+    ],
+    "creation_date": "2026-09-13"
+  },
+  {
+    "product_id": "prod_00350",
+    "name": "User-centric bandwidth-monitored model",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 232.85,
+    "current_stock": 507,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 232.85,
+        "date": "2026-09-18"
+      }
+    ],
+    "creation_date": "2026-07-23"
+  },
+  {
+    "product_id": "prod_00351",
+    "name": "Seamless reciprocal synergy",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 344.94,
+    "current_stock": 851,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 344.94,
+        "date": "2026-05-14"
+      }
+    ],
+    "creation_date": "2026-02-15"
+  },
+  {
+    "product_id": "prod_00352",
+    "name": "Reverse-engineered logistical complexity",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 376.56,
+    "current_stock": 587,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 376.56,
+        "date": "2026-04-04"
+      }
+    ],
+    "creation_date": "2026-05-04"
+  },
+  {
+    "product_id": "prod_00353",
+    "name": "Front-line optimal software",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 445.36,
+    "current_stock": 370,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 445.36,
+        "date": "2026-10-06"
+      }
+    ],
+    "creation_date": "2026-10-09"
+  },
+  {
+    "product_id": "prod_00354",
+    "name": "Configurable optimal conglomeration",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 331.65,
+    "current_stock": 450,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 331.65,
+        "date": "2026-03-29"
+      }
+    ],
+    "creation_date": "2026-05-17"
+  },
+  {
+    "product_id": "prod_00355",
+    "name": "Vision-oriented mission-critical hub",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 267.22,
+    "current_stock": 174,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 267.22,
+        "date": "2026-05-22"
+      }
+    ],
+    "creation_date": "2026-08-01"
+  },
+  {
+    "product_id": "prod_00356",
+    "name": "User-centric client-driven frame",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 227.28,
+    "current_stock": 299,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 227.28,
+        "date": "2026-07-29"
+      }
+    ],
+    "creation_date": "2026-03-27"
+  },
+  {
+    "product_id": "prod_00357",
+    "name": "Reduced background project",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 79.62,
+    "current_stock": 791,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 79.62,
+        "date": "2026-08-28"
+      }
+    ],
+    "creation_date": "2026-07-07"
+  },
+  {
+    "product_id": "prod_00358",
+    "name": "Customer-focused analyzing access",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 267.31,
+    "current_stock": 162,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 267.31,
+        "date": "2026-03-30"
+      }
+    ],
+    "creation_date": "2026-10-18"
+  },
+  {
+    "product_id": "prod_00359",
+    "name": "Horizontal asymmetric protocol",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 367.26,
+    "current_stock": 407,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 367.26,
+        "date": "2026-04-04"
+      }
+    ],
+    "creation_date": "2026-06-19"
+  },
+  {
+    "product_id": "prod_00360",
+    "name": "Switchable maximized budgetary management",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 233.04,
+    "current_stock": 429,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 233.04,
+        "date": "2026-09-07"
+      }
+    ],
+    "creation_date": "2026-01-25"
+  },
+  {
+    "product_id": "prod_00361",
+    "name": "Face-to-face static service-desk",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 323.84,
+    "current_stock": 396,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 323.84,
+        "date": "2026-01-12"
+      }
+    ],
+    "creation_date": "2026-03-04"
+  },
+  {
+    "product_id": "prod_00362",
+    "name": "Future-proofed full-range Local Area Network",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 284.72,
+    "current_stock": 63,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 284.72,
+        "date": "2026-08-14"
+      }
+    ],
+    "creation_date": "2026-02-14"
+  },
+  {
+    "product_id": "prod_00363",
+    "name": "Extended motivating open architecture",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 391.64,
+    "current_stock": 157,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 391.64,
+        "date": "2026-07-07"
+      }
+    ],
+    "creation_date": "2026-04-08"
+  },
+  {
+    "product_id": "prod_00364",
+    "name": "Horizontal non-volatile knowledgebase",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 197.0,
+    "current_stock": 887,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 197.0,
+        "date": "2026-06-15"
+      }
+    ],
+    "creation_date": "2026-10-26"
+  },
+  {
+    "product_id": "prod_00365",
+    "name": "Open-architected attitude-oriented initiative",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 486.6,
+    "current_stock": 485,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 486.6,
+        "date": "2026-01-05"
+      }
+    ],
+    "creation_date": "2026-08-15"
+  },
+  {
+    "product_id": "prod_00366",
+    "name": "Monitored 4thgeneration model",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 258.25,
+    "current_stock": 664,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 258.25,
+        "date": "2026-02-15"
+      }
+    ],
+    "creation_date": "2026-07-31"
+  },
+  {
+    "product_id": "prod_00367",
+    "name": "Fully-configurable maximized flexibility",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 121.13,
+    "current_stock": 907,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 121.13,
+        "date": "2026-01-06"
+      }
+    ],
+    "creation_date": "2026-01-24"
+  },
+  {
+    "product_id": "prod_00368",
+    "name": "Optimized zero administration open architecture",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 460.2,
+    "current_stock": 516,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 460.2,
+        "date": "2026-03-01"
+      }
+    ],
+    "creation_date": "2026-08-09"
+  },
+  {
+    "product_id": "prod_00369",
+    "name": "Face-to-face non-volatile customer loyalty",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 167.78,
+    "current_stock": 655,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 167.78,
+        "date": "2026-06-22"
+      }
+    ],
+    "creation_date": "2026-05-09"
+  },
+  {
+    "product_id": "prod_00370",
+    "name": "Proactive dynamic circuit",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 21.69,
+    "current_stock": 95,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 21.69,
+        "date": "2026-04-10"
+      }
+    ],
+    "creation_date": "2026-09-13"
+  },
+  {
+    "product_id": "prod_00371",
+    "name": "Grass-roots foreground intranet",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 476.58,
+    "current_stock": 707,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 476.58,
+        "date": "2026-10-08"
+      }
+    ],
+    "creation_date": "2026-03-27"
+  },
+  {
+    "product_id": "prod_00372",
+    "name": "Open-architected regional implementation",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 385.08,
+    "current_stock": 753,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 385.08,
+        "date": "2026-04-24"
+      }
+    ],
+    "creation_date": "2026-07-06"
+  },
+  {
+    "product_id": "prod_00373",
+    "name": "Visionary reciprocal forecast",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 178.84,
+    "current_stock": 672,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 178.84,
+        "date": "2026-06-25"
+      }
+    ],
+    "creation_date": "2026-03-06"
+  },
+  {
+    "product_id": "prod_00374",
+    "name": "Grass-roots composite utilization",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 370.8,
+    "current_stock": 215,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 370.8,
+        "date": "2026-07-24"
+      }
+    ],
+    "creation_date": "2026-10-14"
+  },
+  {
+    "product_id": "prod_00375",
+    "name": "Synchronized optimizing moderator",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 260.78,
+    "current_stock": 323,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 260.78,
+        "date": "2026-02-18"
+      }
+    ],
+    "creation_date": "2026-08-16"
+  },
+  {
+    "product_id": "prod_00376",
+    "name": "Up-sized reciprocal flexibility",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 321.32,
+    "current_stock": 342,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 321.32,
+        "date": "2026-06-04"
+      }
+    ],
+    "creation_date": "2026-09-24"
+  },
+  {
+    "product_id": "prod_00377",
+    "name": "Organic 6thgeneration monitoring",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 258.72,
+    "current_stock": 374,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 258.72,
+        "date": "2026-06-29"
+      }
+    ],
+    "creation_date": "2026-01-06"
+  },
+  {
+    "product_id": "prod_00378",
+    "name": "Multi-lateral dynamic parallelism",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 266.29,
+    "current_stock": 999,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 266.29,
+        "date": "2026-03-06"
+      }
+    ],
+    "creation_date": "2026-09-09"
+  },
+  {
+    "product_id": "prod_00379",
+    "name": "Organic client-server database",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 287.9,
+    "current_stock": 823,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 287.9,
+        "date": "2026-04-07"
+      }
+    ],
+    "creation_date": "2026-08-31"
+  },
+  {
+    "product_id": "prod_00380",
+    "name": "Multi-channeled zero tolerance website",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 335.31,
+    "current_stock": 780,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 335.31,
+        "date": "2026-05-23"
+      }
+    ],
+    "creation_date": "2026-03-13"
+  },
+  {
+    "product_id": "prod_00381",
+    "name": "Synergistic human-resource artificial intelligence",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 243.98,
+    "current_stock": 574,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 243.98,
+        "date": "2026-05-17"
+      }
+    ],
+    "creation_date": "2026-01-28"
+  },
+  {
+    "product_id": "prod_00382",
+    "name": "Integrated clear-thinking flexibility",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 44.34,
+    "current_stock": 858,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 44.34,
+        "date": "2026-09-07"
+      }
+    ],
+    "creation_date": "2026-05-04"
+  },
+  {
+    "product_id": "prod_00383",
+    "name": "Versatile bandwidth-monitored leverage",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 37.98,
+    "current_stock": 326,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 37.98,
+        "date": "2026-06-15"
+      }
+    ],
+    "creation_date": "2026-07-18"
+  },
+  {
+    "product_id": "prod_00384",
+    "name": "Decentralized contextually-based infrastructure",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 220.05,
+    "current_stock": 428,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 220.05,
+        "date": "2026-10-13"
+      }
+    ],
+    "creation_date": "2026-07-15"
+  },
+  {
+    "product_id": "prod_00385",
+    "name": "Horizontal upward-trending data-warehouse",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 67.23,
+    "current_stock": 779,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 67.23,
+        "date": "2026-01-09"
+      }
+    ],
+    "creation_date": "2026-10-28"
+  },
+  {
+    "product_id": "prod_00386",
+    "name": "Total fault-tolerant benchmark",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 96.94,
+    "current_stock": 523,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 96.94,
+        "date": "2026-09-25"
+      }
+    ],
+    "creation_date": "2026-03-18"
+  },
+  {
+    "product_id": "prod_00387",
+    "name": "Upgradable disintermediate policy",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 94.4,
+    "current_stock": 48,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 94.4,
+        "date": "2026-04-14"
+      }
+    ],
+    "creation_date": "2026-02-27"
+  },
+  {
+    "product_id": "prod_00388",
+    "name": "Customizable context-sensitive installation",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 218.34,
+    "current_stock": 310,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 218.34,
+        "date": "2026-05-25"
+      }
+    ],
+    "creation_date": "2026-06-07"
+  },
+  {
+    "product_id": "prod_00389",
+    "name": "Grass-roots bi-directional hardware",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 277.7,
+    "current_stock": 972,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 277.7,
+        "date": "2026-04-13"
+      }
+    ],
+    "creation_date": "2026-01-19"
+  },
+  {
+    "product_id": "prod_00390",
+    "name": "Horizontal composite instruction set",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 154.56,
+    "current_stock": 962,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 154.56,
+        "date": "2026-09-24"
+      }
+    ],
+    "creation_date": "2026-07-27"
+  },
+  {
+    "product_id": "prod_00391",
+    "name": "Reverse-engineered mobile infrastructure",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 293.11,
+    "current_stock": 54,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 293.11,
+        "date": "2026-08-13"
+      }
+    ],
+    "creation_date": "2026-05-23"
+  },
+  {
+    "product_id": "prod_00392",
+    "name": "Seamless object-oriented hardware",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 49.3,
+    "current_stock": 675,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 49.3,
+        "date": "2026-02-16"
+      }
+    ],
+    "creation_date": "2026-06-15"
+  },
+  {
+    "product_id": "prod_00393",
+    "name": "Horizontal incremental matrices",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 74.31,
+    "current_stock": 791,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 74.31,
+        "date": "2026-08-16"
+      }
+    ],
+    "creation_date": "2026-10-25"
+  },
+  {
+    "product_id": "prod_00394",
+    "name": "Down-sized 6thgeneration productivity",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 123.95,
+    "current_stock": 869,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 123.95,
+        "date": "2026-09-17"
+      }
+    ],
+    "creation_date": "2026-03-24"
+  },
+  {
+    "product_id": "prod_00395",
+    "name": "Synergized logistical analyzer",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 340.27,
+    "current_stock": 149,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 340.27,
+        "date": "2026-08-29"
+      }
+    ],
+    "creation_date": "2026-05-19"
+  },
+  {
+    "product_id": "prod_00396",
+    "name": "Face-to-face background complexity",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 248.06,
+    "current_stock": 584,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 248.06,
+        "date": "2026-10-18"
+      }
+    ],
+    "creation_date": "2026-10-31"
+  },
+  {
+    "product_id": "prod_00397",
+    "name": "Secured uniform service-desk",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 266.01,
+    "current_stock": 609,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 266.01,
+        "date": "2026-10-20"
+      }
+    ],
+    "creation_date": "2026-07-11"
+  },
+  {
+    "product_id": "prod_00398",
+    "name": "Streamlined needs-based software",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 224.98,
+    "current_stock": 57,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 224.98,
+        "date": "2026-01-22"
+      }
+    ],
+    "creation_date": "2026-09-12"
+  },
+  {
+    "product_id": "prod_00399",
+    "name": "Seamless mission-critical archive",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 383.99,
+    "current_stock": 826,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 383.99,
+        "date": "2026-11-05"
+      }
+    ],
+    "creation_date": "2026-07-11"
+  },
+  {
+    "product_id": "prod_00400",
+    "name": "Advanced heuristic focus group",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 339.61,
+    "current_stock": 402,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 339.61,
+        "date": "2026-04-27"
+      }
+    ],
+    "creation_date": "2026-09-17"
+  },
+  {
+    "product_id": "prod_00401",
+    "name": "Function-based secondary policy",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 458.66,
+    "current_stock": 315,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 458.66,
+        "date": "2026-04-04"
+      }
+    ],
+    "creation_date": "2026-06-26"
+  },
+  {
+    "product_id": "prod_00402",
+    "name": "Multi-channeled maximized capability",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_03",
+    "base_price": 301.36,
+    "current_stock": 520,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 301.36,
+        "date": "2026-05-27"
+      }
+    ],
+    "creation_date": "2026-06-15"
+  },
+  {
+    "product_id": "prod_00403",
+    "name": "Virtual homogeneous focus group",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 158.82,
+    "current_stock": 249,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 158.82,
+        "date": "2026-02-02"
+      }
+    ],
+    "creation_date": "2026-06-13"
+  },
+  {
+    "product_id": "prod_00404",
+    "name": "Reverse-engineered holistic model",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 289.84,
+    "current_stock": 140,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 289.84,
+        "date": "2026-08-02"
+      }
+    ],
+    "creation_date": "2026-02-01"
+  },
+  {
+    "product_id": "prod_00405",
+    "name": "Phased real-time benchmark",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 364.56,
+    "current_stock": 863,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 364.56,
+        "date": "2026-07-22"
+      }
+    ],
+    "creation_date": "2026-01-15"
+  },
+  {
+    "product_id": "prod_00406",
+    "name": "Cross-group transitional secured line",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 350.94,
+    "current_stock": 695,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 350.94,
+        "date": "2026-07-03"
+      }
+    ],
+    "creation_date": "2026-01-31"
+  },
+  {
+    "product_id": "prod_00407",
+    "name": "Upgradable bi-directional migration",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 378.83,
+    "current_stock": 232,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 378.83,
+        "date": "2026-05-18"
+      }
+    ],
+    "creation_date": "2026-09-12"
+  },
+  {
+    "product_id": "prod_00408",
+    "name": "Extended multimedia moratorium",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 355.02,
+    "current_stock": 447,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 355.02,
+        "date": "2026-01-06"
+      }
+    ],
+    "creation_date": "2026-02-18"
+  },
+  {
+    "product_id": "prod_00409",
+    "name": "Re-contextualized intangible task-force",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 324.47,
+    "current_stock": 532,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 324.47,
+        "date": "2026-07-24"
+      }
+    ],
+    "creation_date": "2026-07-03"
+  },
+  {
+    "product_id": "prod_00410",
+    "name": "Cloned multi-tasking service-desk",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 124.47,
+    "current_stock": 544,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 124.47,
+        "date": "2026-05-19"
+      }
+    ],
+    "creation_date": "2026-03-06"
+  },
+  {
+    "product_id": "prod_00411",
+    "name": "Front-line homogeneous Graphic Interface",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 432.39,
+    "current_stock": 479,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 432.39,
+        "date": "2026-06-29"
+      }
+    ],
+    "creation_date": "2026-07-14"
+  },
+  {
+    "product_id": "prod_00412",
+    "name": "Switchable leadingedge projection",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 201.63,
+    "current_stock": 660,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 201.63,
+        "date": "2026-07-09"
+      }
+    ],
+    "creation_date": "2026-10-01"
+  },
+  {
+    "product_id": "prod_00413",
+    "name": "Progressive bottom-line process improvement",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 151.97,
+    "current_stock": 892,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 151.97,
+        "date": "2026-09-15"
+      }
+    ],
+    "creation_date": "2026-05-22"
+  },
+  {
+    "product_id": "prod_00414",
+    "name": "Multi-channeled tertiary info-mediaries",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 325.89,
+    "current_stock": 815,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 325.89,
+        "date": "2026-07-04"
+      }
+    ],
+    "creation_date": "2026-10-11"
+  },
+  {
+    "product_id": "prod_00415",
+    "name": "Cross-group composite pricing structure",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 472.5,
+    "current_stock": 938,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 472.5,
+        "date": "2026-03-19"
+      }
+    ],
+    "creation_date": "2026-05-26"
+  },
+  {
+    "product_id": "prod_00416",
+    "name": "Versatile modular contingency",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 44.41,
+    "current_stock": 373,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 44.41,
+        "date": "2026-01-30"
+      }
+    ],
+    "creation_date": "2026-04-19"
+  },
+  {
+    "product_id": "prod_00417",
+    "name": "Function-based tertiary solution",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 250.3,
+    "current_stock": 733,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 250.3,
+        "date": "2026-10-17"
+      }
+    ],
+    "creation_date": "2026-03-31"
+  },
+  {
+    "product_id": "prod_00418",
+    "name": "Cross-platform didactic hardware",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 214.82,
+    "current_stock": 355,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 214.82,
+        "date": "2026-10-29"
+      }
+    ],
+    "creation_date": "2026-03-02"
+  },
+  {
+    "product_id": "prod_00419",
+    "name": "Grass-roots explicit leverage",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 335.06,
+    "current_stock": 67,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 335.06,
+        "date": "2026-08-29"
+      }
+    ],
+    "creation_date": "2026-06-14"
+  },
+  {
+    "product_id": "prod_00420",
+    "name": "Distributed grid-enabled info-mediaries",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 392.7,
+    "current_stock": 925,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 392.7,
+        "date": "2026-07-13"
+      }
+    ],
+    "creation_date": "2026-06-24"
+  },
+  {
+    "product_id": "prod_00421",
+    "name": "Virtual modular array",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 34.06,
+    "current_stock": 748,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 34.06,
+        "date": "2026-04-01"
+      }
+    ],
+    "creation_date": "2026-10-23"
+  },
+  {
+    "product_id": "prod_00422",
+    "name": "Cloned eco-centric parallelism",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 466.95,
+    "current_stock": 296,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 466.95,
+        "date": "2026-01-07"
+      }
+    ],
+    "creation_date": "2026-08-02"
+  },
+  {
+    "product_id": "prod_00423",
+    "name": "Devolved foreground installation",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 389.08,
+    "current_stock": 289,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 389.08,
+        "date": "2026-10-02"
+      }
+    ],
+    "creation_date": "2026-09-11"
+  },
+  {
+    "product_id": "prod_00424",
+    "name": "Customer-focused high-level solution",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 273.83,
+    "current_stock": 625,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 273.83,
+        "date": "2026-09-27"
+      }
+    ],
+    "creation_date": "2026-09-22"
+  },
+  {
+    "product_id": "prod_00425",
+    "name": "Realigned intermediate database",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 289.7,
+    "current_stock": 510,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 289.7,
+        "date": "2026-08-26"
+      }
+    ],
+    "creation_date": "2026-10-23"
+  },
+  {
+    "product_id": "prod_00426",
+    "name": "Optimized national definition",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 361.56,
+    "current_stock": 391,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 361.56,
+        "date": "2026-05-29"
+      }
+    ],
+    "creation_date": "2026-05-26"
+  },
+  {
+    "product_id": "prod_00427",
+    "name": "Expanded stable hardware",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 374.48,
+    "current_stock": 920,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 374.48,
+        "date": "2026-01-30"
+      }
+    ],
+    "creation_date": "2026-02-15"
+  },
+  {
+    "product_id": "prod_00428",
+    "name": "Cloned directional hub",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 175.65,
+    "current_stock": 404,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 175.65,
+        "date": "2026-03-19"
+      }
+    ],
+    "creation_date": "2026-09-13"
+  },
+  {
+    "product_id": "prod_00429",
+    "name": "Stand-alone regional open architecture",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 42.1,
+    "current_stock": 229,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 42.1,
+        "date": "2026-10-16"
+      }
+    ],
+    "creation_date": "2026-08-22"
+  },
+  {
+    "product_id": "prod_00430",
+    "name": "Diverse bandwidth-monitored orchestration",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 340.6,
+    "current_stock": 641,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 340.6,
+        "date": "2026-10-19"
+      }
+    ],
+    "creation_date": "2026-07-23"
+  },
+  {
+    "product_id": "prod_00431",
+    "name": "Optimized logistical open architecture",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 460.12,
+    "current_stock": 707,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 460.12,
+        "date": "2026-10-20"
+      }
+    ],
+    "creation_date": "2026-10-07"
+  },
+  {
+    "product_id": "prod_00432",
+    "name": "Universal multi-tasking array",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 47.9,
+    "current_stock": 429,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 47.9,
+        "date": "2026-02-12"
+      }
+    ],
+    "creation_date": "2026-03-04"
+  },
+  {
+    "product_id": "prod_00433",
+    "name": "Proactive radical data-warehouse",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 422.15,
+    "current_stock": 874,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 422.15,
+        "date": "2026-04-07"
+      }
+    ],
+    "creation_date": "2026-04-03"
+  },
+  {
+    "product_id": "prod_00434",
+    "name": "De-engineered dynamic monitoring",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 417.94,
+    "current_stock": 604,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 417.94,
+        "date": "2026-02-11"
+      }
+    ],
+    "creation_date": "2026-09-21"
+  },
+  {
+    "product_id": "prod_00435",
+    "name": "Synergistic foreground data-warehouse",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 266.71,
+    "current_stock": 742,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 266.71,
+        "date": "2026-03-01"
+      }
+    ],
+    "creation_date": "2026-04-07"
+  },
+  {
+    "product_id": "prod_00436",
+    "name": "Visionary tangible paradigm",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 30.59,
+    "current_stock": 880,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 30.59,
+        "date": "2026-05-22"
+      }
+    ],
+    "creation_date": "2026-07-24"
+  },
+  {
+    "product_id": "prod_00437",
+    "name": "Progressive mission-critical portal",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 355.75,
+    "current_stock": 383,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 355.75,
+        "date": "2026-10-17"
+      }
+    ],
+    "creation_date": "2026-07-23"
+  },
+  {
+    "product_id": "prod_00438",
+    "name": "Advanced solution-oriented model",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 265.06,
+    "current_stock": 723,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 265.06,
+        "date": "2026-10-20"
+      }
+    ],
+    "creation_date": "2026-05-22"
+  },
+  {
+    "product_id": "prod_00439",
+    "name": "Universal optimal website",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 185.64,
+    "current_stock": 29,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 185.64,
+        "date": "2026-07-05"
+      }
+    ],
+    "creation_date": "2026-03-13"
+  },
+  {
+    "product_id": "prod_00440",
+    "name": "Configurable object-oriented infrastructure",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 116.4,
+    "current_stock": 811,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 116.4,
+        "date": "2026-10-29"
+      }
+    ],
+    "creation_date": "2026-03-05"
+  },
+  {
+    "product_id": "prod_00441",
+    "name": "Fundamental discrete parallelism",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 321.78,
+    "current_stock": 542,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 321.78,
+        "date": "2026-10-21"
+      }
+    ],
+    "creation_date": "2026-08-08"
+  },
+  {
+    "product_id": "prod_00442",
+    "name": "Quality-focused bi-directional firmware",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 82.09,
+    "current_stock": 121,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 82.09,
+        "date": "2026-10-07"
+      }
+    ],
+    "creation_date": "2026-09-05"
+  },
+  {
+    "product_id": "prod_00443",
+    "name": "Customizable dynamic groupware",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 405.0,
+    "current_stock": 175,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 405.0,
+        "date": "2026-06-14"
+      }
+    ],
+    "creation_date": "2026-06-01"
+  },
+  {
+    "product_id": "prod_00444",
+    "name": "Robust web-enabled structure",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 138.85,
+    "current_stock": 391,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 138.85,
+        "date": "2026-03-13"
+      }
+    ],
+    "creation_date": "2026-07-30"
+  },
+  {
+    "product_id": "prod_00445",
+    "name": "Multi-tiered optimal moderator",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_01",
+    "base_price": 420.0,
+    "current_stock": 440,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 420.0,
+        "date": "2026-08-15"
+      }
+    ],
+    "creation_date": "2026-09-18"
+  },
+  {
+    "product_id": "prod_00446",
+    "name": "Secured reciprocal Graphical User Interface",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 213.9,
+    "current_stock": 484,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 213.9,
+        "date": "2026-03-03"
+      }
+    ],
+    "creation_date": "2026-03-04"
+  },
+  {
+    "product_id": "prod_00447",
+    "name": "Ameliorated scalable conglomeration",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 83.62,
+    "current_stock": 306,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 83.62,
+        "date": "2026-01-27"
+      }
+    ],
+    "creation_date": "2026-05-30"
+  },
+  {
+    "product_id": "prod_00448",
+    "name": "Advanced user-facing benchmark",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 102.32,
+    "current_stock": 113,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 102.32,
+        "date": "2026-08-20"
+      }
+    ],
+    "creation_date": "2026-08-09"
+  },
+  {
+    "product_id": "prod_00449",
+    "name": "Devolved optimal portal",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 350.39,
+    "current_stock": 37,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 350.39,
+        "date": "2026-05-17"
+      }
+    ],
+    "creation_date": "2026-02-08"
+  },
+  {
+    "product_id": "prod_00450",
+    "name": "User-friendly actuating interface",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 456.38,
+    "current_stock": 828,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 456.38,
+        "date": "2026-05-09"
+      }
+    ],
+    "creation_date": "2026-04-26"
+  },
+  {
+    "product_id": "prod_00451",
+    "name": "Fundamental grid-enabled superstructure",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 138.9,
+    "current_stock": 228,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 138.9,
+        "date": "2026-10-05"
+      }
+    ],
+    "creation_date": "2026-06-17"
+  },
+  {
+    "product_id": "prod_00452",
+    "name": "Multi-layered bandwidth-monitored focus group",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 427.28,
+    "current_stock": 632,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 427.28,
+        "date": "2026-10-01"
+      }
+    ],
+    "creation_date": "2026-05-09"
+  },
+  {
+    "product_id": "prod_00453",
+    "name": "Distributed 3rdgeneration utilization",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 394.94,
+    "current_stock": 899,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 394.94,
+        "date": "2026-02-08"
+      }
+    ],
+    "creation_date": "2026-05-04"
+  },
+  {
+    "product_id": "prod_00454",
+    "name": "Phased systematic array",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_03",
+    "base_price": 231.01,
+    "current_stock": 720,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 231.01,
+        "date": "2026-09-16"
+      }
+    ],
+    "creation_date": "2026-07-06"
+  },
+  {
+    "product_id": "prod_00455",
+    "name": "Networked 24hour budgetary management",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 234.01,
+    "current_stock": 62,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 234.01,
+        "date": "2026-02-22"
+      }
+    ],
+    "creation_date": "2026-02-27"
+  },
+  {
+    "product_id": "prod_00456",
+    "name": "Face-to-face heuristic extranet",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 18.38,
+    "current_stock": 516,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 18.38,
+        "date": "2026-01-15"
+      }
+    ],
+    "creation_date": "2026-04-24"
+  },
+  {
+    "product_id": "prod_00457",
+    "name": "Object-based exuding hierarchy",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 326.63,
+    "current_stock": 412,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 326.63,
+        "date": "2026-06-11"
+      }
+    ],
+    "creation_date": "2026-02-10"
+  },
+  {
+    "product_id": "prod_00458",
+    "name": "Phased stable orchestration",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 166.92,
+    "current_stock": 879,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 166.92,
+        "date": "2026-08-26"
+      }
+    ],
+    "creation_date": "2026-02-19"
+  },
+  {
+    "product_id": "prod_00459",
+    "name": "Down-sized fault-tolerant firmware",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 115.5,
+    "current_stock": 231,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 115.5,
+        "date": "2026-10-26"
+      }
+    ],
+    "creation_date": "2026-08-24"
+  },
+  {
+    "product_id": "prod_00460",
+    "name": "Extended tertiary data-warehouse",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 213.05,
+    "current_stock": 103,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 213.05,
+        "date": "2026-01-19"
+      }
+    ],
+    "creation_date": "2026-10-28"
+  },
+  {
+    "product_id": "prod_00461",
+    "name": "Enhanced full-range budgetary management",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 144.46,
+    "current_stock": 877,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 144.46,
+        "date": "2026-07-01"
+      }
+    ],
+    "creation_date": "2026-04-21"
+  },
+  {
+    "product_id": "prod_00462",
+    "name": "Ameliorated explicit migration",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 276.43,
+    "current_stock": 93,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 276.43,
+        "date": "2026-08-23"
+      }
+    ],
+    "creation_date": "2026-08-11"
+  },
+  {
+    "product_id": "prod_00463",
+    "name": "Extended incremental hierarchy",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 83.71,
+    "current_stock": 70,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 83.71,
+        "date": "2026-05-12"
+      }
+    ],
+    "creation_date": "2026-07-17"
+  },
+  {
+    "product_id": "prod_00464",
+    "name": "Automated mission-critical system engine",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 26.26,
+    "current_stock": 72,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 26.26,
+        "date": "2026-10-24"
+      }
+    ],
+    "creation_date": "2026-06-25"
+  },
+  {
+    "product_id": "prod_00465",
+    "name": "Horizontal stable initiative",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_00",
+    "base_price": 439.45,
+    "current_stock": 714,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 439.45,
+        "date": "2026-09-28"
+      }
+    ],
+    "creation_date": "2026-03-07"
+  },
+  {
+    "product_id": "prod_00466",
+    "name": "Universal global Graphical User Interface",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_04",
+    "base_price": 496.25,
+    "current_stock": 870,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 496.25,
+        "date": "2026-08-13"
+      }
+    ],
+    "creation_date": "2026-09-01"
+  },
+  {
+    "product_id": "prod_00467",
+    "name": "Decentralized didactic ability",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 465.57,
+    "current_stock": 979,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 465.57,
+        "date": "2026-03-19"
+      }
+    ],
+    "creation_date": "2026-04-10"
+  },
+  {
+    "product_id": "prod_00468",
+    "name": "Realigned intermediate collaboration",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_03",
+    "base_price": 172.16,
+    "current_stock": 540,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 172.16,
+        "date": "2026-03-01"
+      }
+    ],
+    "creation_date": "2026-08-28"
+  },
+  {
+    "product_id": "prod_00469",
+    "name": "Networked multi-state knowledge user",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 344.04,
+    "current_stock": 66,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 344.04,
+        "date": "2026-03-13"
+      }
+    ],
+    "creation_date": "2026-09-18"
+  },
+  {
+    "product_id": "prod_00470",
+    "name": "Persistent well-modulated service-desk",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 483.68,
+    "current_stock": 989,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 483.68,
+        "date": "2026-04-12"
+      }
+    ],
+    "creation_date": "2026-05-20"
+  },
+  {
+    "product_id": "prod_00471",
+    "name": "Diverse client-driven success",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 169.97,
+    "current_stock": 352,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 169.97,
+        "date": "2026-07-08"
+      }
+    ],
+    "creation_date": "2026-05-27"
+  },
+  {
+    "product_id": "prod_00472",
+    "name": "Visionary local matrices",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_03",
+    "base_price": 41.04,
+    "current_stock": 998,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 41.04,
+        "date": "2026-09-27"
+      }
+    ],
+    "creation_date": "2026-09-07"
+  },
+  {
+    "product_id": "prod_00473",
+    "name": "Quality-focused 24hour Local Area Network",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 235.59,
+    "current_stock": 237,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 235.59,
+        "date": "2026-06-08"
+      }
+    ],
+    "creation_date": "2026-10-26"
+  },
+  {
+    "product_id": "prod_00474",
+    "name": "Assimilated cohesive architecture",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_01",
+    "base_price": 125.59,
+    "current_stock": 720,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 125.59,
+        "date": "2026-06-08"
+      }
+    ],
+    "creation_date": "2026-04-25"
+  },
+  {
+    "product_id": "prod_00475",
+    "name": "Down-sized static instruction set",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_02",
+    "base_price": 219.76,
+    "current_stock": 665,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 219.76,
+        "date": "2026-07-08"
+      }
+    ],
+    "creation_date": "2026-02-13"
+  },
+  {
+    "product_id": "prod_00476",
+    "name": "Integrated executive website",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 197.08,
+    "current_stock": 26,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 197.08,
+        "date": "2026-06-09"
+      }
+    ],
+    "creation_date": "2026-09-05"
+  },
+  {
+    "product_id": "prod_00477",
+    "name": "Ergonomic scalable help-desk",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 42.16,
+    "current_stock": 985,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 42.16,
+        "date": "2026-01-23"
+      }
+    ],
+    "creation_date": "2026-07-02"
+  },
+  {
+    "product_id": "prod_00478",
+    "name": "Re-engineered 24hour success",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 360.27,
+    "current_stock": 710,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 360.27,
+        "date": "2026-11-03"
+      }
+    ],
+    "creation_date": "2026-04-11"
+  },
+  {
+    "product_id": "prod_00479",
+    "name": "Expanded tangible definition",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 52.36,
+    "current_stock": 872,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 52.36,
+        "date": "2026-05-04"
+      }
+    ],
+    "creation_date": "2026-04-18"
+  },
+  {
+    "product_id": "prod_00480",
+    "name": "Adaptive zero tolerance concept",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 447.76,
+    "current_stock": 434,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 447.76,
+        "date": "2026-03-28"
+      }
+    ],
+    "creation_date": "2026-09-16"
+  },
+  {
+    "product_id": "prod_00481",
+    "name": "Enhanced heuristic groupware",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_04",
+    "base_price": 207.33,
+    "current_stock": 271,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 207.33,
+        "date": "2026-06-09"
+      }
+    ],
+    "creation_date": "2026-07-14"
+  },
+  {
+    "product_id": "prod_00482",
+    "name": "De-engineered disintermediate budgetary management",
+    "category_id": "cat_009",
+    "subcategory_id": "sub_009_03",
+    "base_price": 397.22,
+    "current_stock": 532,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 397.22,
+        "date": "2026-03-24"
+      }
+    ],
+    "creation_date": "2026-02-03"
+  },
+  {
+    "product_id": "prod_00483",
+    "name": "Polarized responsive ability",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 461.1,
+    "current_stock": 986,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 461.1,
+        "date": "2026-04-03"
+      }
+    ],
+    "creation_date": "2026-11-01"
+  },
+  {
+    "product_id": "prod_00484",
+    "name": "Self-enabling exuding flexibility",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 316.29,
+    "current_stock": 462,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 316.29,
+        "date": "2026-09-09"
+      }
+    ],
+    "creation_date": "2026-05-07"
+  },
+  {
+    "product_id": "prod_00485",
+    "name": "Profit-focused methodical ability",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 29.22,
+    "current_stock": 560,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 29.22,
+        "date": "2026-06-04"
+      }
+    ],
+    "creation_date": "2026-01-18"
+  },
+  {
+    "product_id": "prod_00486",
+    "name": "Assimilated local ability",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 135.5,
+    "current_stock": 119,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 135.5,
+        "date": "2026-09-11"
+      }
+    ],
+    "creation_date": "2026-06-08"
+  },
+  {
+    "product_id": "prod_00487",
+    "name": "Visionary logistical flexibility",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_03",
+    "base_price": 367.53,
+    "current_stock": 958,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 367.53,
+        "date": "2026-01-03"
+      }
+    ],
+    "creation_date": "2026-05-07"
+  },
+  {
+    "product_id": "prod_00488",
+    "name": "Secured zero-defect moratorium",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 325.26,
+    "current_stock": 889,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 325.26,
+        "date": "2026-01-17"
+      }
+    ],
+    "creation_date": "2026-03-11"
+  },
+  {
+    "product_id": "prod_00489",
+    "name": "Cross-group bi-directional frame",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 209.53,
+    "current_stock": 822,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 209.53,
+        "date": "2026-01-14"
+      }
+    ],
+    "creation_date": "2026-03-14"
+  },
+  {
+    "product_id": "prod_00490",
+    "name": "Triple-buffered dedicated installation",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 171.86,
+    "current_stock": 669,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 171.86,
+        "date": "2026-04-19"
+      }
+    ],
+    "creation_date": "2026-08-15"
+  },
+  {
+    "product_id": "prod_00491",
+    "name": "Monitored 5thgeneration task-force",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_03",
+    "base_price": 410.17,
+    "current_stock": 497,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 410.17,
+        "date": "2026-11-05"
+      }
+    ],
+    "creation_date": "2026-02-17"
+  },
+  {
+    "product_id": "prod_00492",
+    "name": "Organized static hierarchy",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 368.77,
+    "current_stock": 531,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 368.77,
+        "date": "2026-01-11"
+      }
+    ],
+    "creation_date": "2026-04-29"
+  },
+  {
+    "product_id": "prod_00493",
+    "name": "Front-line directional functionalities",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 402.31,
+    "current_stock": 840,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 402.31,
+        "date": "2026-03-12"
+      }
+    ],
+    "creation_date": "2026-03-20"
+  },
+  {
+    "product_id": "prod_00494",
+    "name": "Organic leadingedge functionalities",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_02",
+    "base_price": 109.69,
+    "current_stock": 648,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 109.69,
+        "date": "2026-10-20"
+      }
+    ],
+    "creation_date": "2026-08-22"
+  },
+  {
+    "product_id": "prod_00495",
+    "name": "Universal stable algorithm",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 433.81,
+    "current_stock": 500,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 433.81,
+        "date": "2026-01-22"
+      }
+    ],
+    "creation_date": "2026-07-11"
+  },
+  {
+    "product_id": "prod_00496",
+    "name": "Compatible stable knowledge user",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 221.94,
+    "current_stock": 456,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 221.94,
+        "date": "2026-09-19"
+      }
+    ],
+    "creation_date": "2026-04-22"
+  },
+  {
+    "product_id": "prod_00497",
+    "name": "Multi-lateral tertiary success",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 18.61,
+    "current_stock": 873,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 18.61,
+        "date": "2026-05-09"
+      }
+    ],
+    "creation_date": "2026-05-13"
+  },
+  {
+    "product_id": "prod_00498",
+    "name": "Operative executive complexity",
+    "category_id": "cat_008",
+    "subcategory_id": "sub_008_00",
+    "base_price": 335.66,
+    "current_stock": 260,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 335.66,
+        "date": "2026-05-01"
+      }
+    ],
+    "creation_date": "2026-07-30"
+  },
+  {
+    "product_id": "prod_00499",
+    "name": "Grass-roots content-based orchestration",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 242.52,
+    "current_stock": 214,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 242.52,
+        "date": "2026-03-05"
+      }
+    ],
+    "creation_date": "2026-05-17"
+  }
+]

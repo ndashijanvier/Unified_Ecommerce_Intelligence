@@ -1,0 +1,86 @@
+================================================================================
+          UNIFIED_ECOMMERCE_INTELLIGENCE - DEPLOYMENT & EXECUTION MANUAL
+================================================================================
+Course: Big Data Analytics (Final Exam Individual Project)
+Student Name: NDASHIMYE Janvier (ID: 101363)
+Lecturer: Temitope Oguntade
+Institution: Adventist University of Central Africa (AUCA)
+Date: November 2026
+--------------------------------------------------------------------------------
+
+PREREQUISITES:
+1. Make sure Docker Desktop is open and running on your system.
+2. The dataset files (users.json, products.json, categories.json, transactions.json,
+   and sessions_0.json) must remain in the centralized "data/" folder.
+
+STEP-BY-STEP RUN INSTRUCTIONS:
+
+STEP 1: INITIALIZE THE MULTI-MODEL DOCKER ENVIRONMENT
+-----------------------------------------------------
+1. Open a standard Windows Command Prompt (CMD) window.
+2. Navigate to your root project directory:
+   cd C:\Users\Janvier\Documents\Unified_Ecommerce_Intelligence
+
+3. Boot up the Docker cluster services in the background:
+   docker-compose up -d
+
+4. Wait 10 seconds, then verify all containers show a status of "Up":
+   docker ps
+
+
+STEP 2: CREATE THE HBASE SCHEMA
+-------------------------------
+1. Connect directly to the interactive shell of the running HBase container:
+   docker exec -it ecommerce_hbase hbase shell
+
+2. Inside the interactive hbase(main)> prompt, create the required table 
+   and column families:
+   create 'user_sessions', 'info', 'activity'
+
+3. Confirm that the table is active by typing:
+   list
+
+4. Close the HBase shell:
+   exit
+
+
+STEP 3: RUN THE DATA PROCESSING AND INTEGRATION PIPELINES
+---------------------------------------------------------
+Execute the following commands sequentially inside your main CMD terminal windows 
+to run the data processing engines:
+
+1. Ingest datasets into MongoDB and run the aggregation queries:
+   docker exec -it ecommerce_jupyter python work/data/mongo_ingestion.py
+   docker exec -it ecommerce_jupyter python work/data/mongo_analytics.py
+
+2. Install HappyBase dependencies and ingest clickstream telemetry logs into HBase:
+   docker exec -it ecommerce_jupyter pip install happybase
+   docker exec -it ecommerce_jupyter python work/data/hbase_ingestion.py
+
+3. Run the custom HBase Row-Key scanner verification query:
+   docker exec -it ecommerce_jupyter python work/data/hbase_query.py
+
+4. Submit the distributed processing application to the Apache Spark engine:
+   docker exec -it ecommerce_jupyter spark-submit work/data/spark_processing.py
+
+5. Execute the multi-engine Customer Lifetime Value (CLV) integration pipeline:
+   docker exec -it ecommerce_jupyter python work/data/unified_analytics.py
+
+6. Generate the 4 required high-resolution static report charts:
+   docker exec -it ecommerce_jupyter python work/data/generate_visualizations.py
+
+
+STEP 4: INTERACTIVE BROWSER VERIFICATION (OPTIONAL)
+---------------------------------------------------
+* Jupyter Lab Environment Workspace Portal:
+  Open your web browser and go to: http://localhost:8888
+  (To fetch the login token if prompted, run: docker exec -it ecommerce_jupyter jupyter server list)
+  You can open and view the 'spark_interactive_analytics.ipynb' notebook file directly here.
+
+* Apache Spark Live Application Master Web UI Dashboard:
+  Open your web browser and go to: http://localhost:4040
+  (This portal is live and interactive while the Spark session is actively executing code cell blocks).
+
+================================================================================
+                       ALL SYSTEM COMPONENT TESTS WORK PERFECTLY!
+================================================================================

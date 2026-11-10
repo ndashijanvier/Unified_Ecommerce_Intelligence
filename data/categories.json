@@ -1,0 +1,257 @@
+[
+  {
+    "category_id": "cat_000",
+    "name": "Lee, Gibson and Davis",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_000_00",
+        "name": "Embrace Magnetic E-Markets",
+        "profit_margin": 0.37
+      },
+      {
+        "subcategory_id": "sub_000_01",
+        "name": "Iterate Proactive Models",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_000_02",
+        "name": "Synergize Virtual Platforms",
+        "profit_margin": 0.14
+      },
+      {
+        "subcategory_id": "sub_000_03",
+        "name": "Repurpose User-Centric E-Business",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_000_04",
+        "name": "Extend Next-Generation Applications",
+        "profit_margin": 0.22
+      }
+    ]
+  },
+  {
+    "category_id": "cat_001",
+    "name": "Jensen-Brown",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_001_00",
+        "name": "Redefine Dot-Com Paradigms",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_001_01",
+        "name": "Iterate Out-Of-The-Box Schemas",
+        "profit_margin": 0.2
+      },
+      {
+        "subcategory_id": "sub_001_02",
+        "name": "Revolutionize Enterprise Synergies",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_001_03",
+        "name": "Revolutionize Collaborative Solutions",
+        "profit_margin": 0.35
+      }
+    ]
+  },
+  {
+    "category_id": "cat_002",
+    "name": "Anderson and Sons",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_002_00",
+        "name": "Implement World-Class E-Commerce",
+        "profit_margin": 0.36
+      },
+      {
+        "subcategory_id": "sub_002_01",
+        "name": "Benchmark Integrated Infrastructures",
+        "profit_margin": 0.27
+      },
+      {
+        "subcategory_id": "sub_002_02",
+        "name": "Benchmark Viral Technologies",
+        "profit_margin": 0.35
+      },
+      {
+        "subcategory_id": "sub_002_03",
+        "name": "Embrace Back-End Niches",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_002_04",
+        "name": "Syndicate Killer Eyeballs",
+        "profit_margin": 0.11
+      }
+    ]
+  },
+  {
+    "category_id": "cat_003",
+    "name": "Johnston Group",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_003_00",
+        "name": "Engineer Distributed Markets",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_003_01",
+        "name": "Deploy E-Business Applications",
+        "profit_margin": 0.15
+      },
+      {
+        "subcategory_id": "sub_003_02",
+        "name": "Empower Frictionless Content",
+        "profit_margin": 0.36
+      },
+      {
+        "subcategory_id": "sub_003_03",
+        "name": "Implement Synergistic Portals",
+        "profit_margin": 0.31
+      }
+    ]
+  },
+  {
+    "category_id": "cat_004",
+    "name": "Miller PLC",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_004_00",
+        "name": "Iterate Turn-Key Markets",
+        "profit_margin": 0.17
+      },
+      {
+        "subcategory_id": "sub_004_01",
+        "name": "Harness Best-Of-Breed Web-Readiness",
+        "profit_margin": 0.29
+      },
+      {
+        "subcategory_id": "sub_004_02",
+        "name": "Enhance Dot-Com Networks",
+        "profit_margin": 0.21
+      }
+    ]
+  },
+  {
+    "category_id": "cat_005",
+    "name": "Mendez-Walker",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_005_00",
+        "name": "Visualize Plug-And-Play E-Markets",
+        "profit_margin": 0.11
+      },
+      {
+        "subcategory_id": "sub_005_01",
+        "name": "Monetize B2B Systems",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_005_02",
+        "name": "Deploy Scalable E-Commerce",
+        "profit_margin": 0.28
+      },
+      {
+        "subcategory_id": "sub_005_03",
+        "name": "Aggregate Global Networks",
+        "profit_margin": 0.19
+      }
+    ]
+  },
+  {
+    "category_id": "cat_006",
+    "name": "Stevenson PLC",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_006_00",
+        "name": "Seize 24/365 Methodologies",
+        "profit_margin": 0.31
+      },
+      {
+        "subcategory_id": "sub_006_01",
+        "name": "Syndicate One-To-One Partnerships",
+        "profit_margin": 0.11
+      },
+      {
+        "subcategory_id": "sub_006_02",
+        "name": "Optimize End-To-End Systems",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_006_03",
+        "name": "Empower Magnetic E-Tailers",
+        "profit_margin": 0.11
+      }
+    ]
+  },
+  {
+    "category_id": "cat_007",
+    "name": "Dixon, Richmond and Byrd",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_007_00",
+        "name": "Implement Sticky Bandwidth",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_007_01",
+        "name": "Transition Leading-Edge Deliverables",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_007_02",
+        "name": "Unleash Efficient Portals",
+        "profit_margin": 0.22
+      }
+    ]
+  },
+  {
+    "category_id": "cat_008",
+    "name": "Cooper and Sons",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_008_00",
+        "name": "Generate Wireless Synergies",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_008_01",
+        "name": "Synergize Visionary Interfaces",
+        "profit_margin": 0.33
+      },
+      {
+        "subcategory_id": "sub_008_02",
+        "name": "Transform Cutting-Edge E-Tailers",
+        "profit_margin": 0.11
+      }
+    ]
+  },
+  {
+    "category_id": "cat_009",
+    "name": "Kane-Jacobson",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_009_00",
+        "name": "Drive Bleeding-Edge Technologies",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_009_01",
+        "name": "Target Open-Source Models",
+        "profit_margin": 0.29
+      },
+      {
+        "subcategory_id": "sub_009_02",
+        "name": "Empower Clicks-And-Mortar Portals",
+        "profit_margin": 0.33
+      },
+      {
+        "subcategory_id": "sub_009_03",
+        "name": "Drive Vertical Roi",
+        "profit_margin": 0.11
+      }
+    ]
+  }
+]
